@@ -1,4 +1,4 @@
-# term paper on the development of sentence internal capitalization in Early High German (2020)
+# term paper on the development of sentence internal capitalization in Early High German
 Data and R Script
 
 This repository contains the data and R script used for my statistics term paper on capitalization, as well as the term paper itself.
