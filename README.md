@@ -11,7 +11,7 @@ This paper has been referenced in the following articles:
 
 Dücker, Lisa (2020): Großschreibung von Personenbezeichnungen in Hexenverhörprotokollen –  eine Analyse von Gender, Lemma und Rolle im Gerichtsprozess. In: Astrid Schütz, Renata Szczepaniak & Mona Hess (eds.): Kolloquium Forschende Frauen 2019. Beiträge Bamberger Nachwuchswissenschaftlerinnen. Band 11. Bamberg: University of Bamberg Press, 31–50. Available at: https://fis.uni-bamberg.de/bitstream/uniba/47039/3/fisba47039.pdf.
 
-Lisa Dücker, Stefan Hartmann & Renata Szczepaniak (2020): Satzinterne Großschreibung von Substantiven und Substantivierungen in Hexenverhörprotokollen. In: Renata Szczepaniak, Lisa Dücker & Stefan Hartmann (eds.): Hexenverhörprotokolle als sprachhistorisches Korpus: Fallstudien zur Erschließung der frühneuzeitlichen Schriftsprache. Berlin, Boston: De Gruyter, 113–144.
+Dücker, Lisa / Hartmann, Stefan / Szczepaniak, Renata (2020): Satzinterne Großschreibung von Substantiven und Substantivierungen in Hexenverhörprotokollen. In: Renata Szczepaniak, Lisa Dücker & Stefan Hartmann (eds.): Hexenverhörprotokolle als sprachhistorisches Korpus: Fallstudien zur Erschließung der frühneuzeitlichen Schriftsprache. Berlin, Boston: De Gruyter, 113–144.
 
 # 2020 paper: "Gender und soziale Rolle in der Entwicklung der satzinternen Großschreibung –  eine multifaktorielle Analyse"
 
