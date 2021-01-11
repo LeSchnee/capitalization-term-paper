@@ -1,0 +1,552 @@
+Sigle	Belegtext	Animacy_finegrained	Lemma	PoS	Ort	Jahr	upperCase	Sprachraum.ost.west	Gender	Kompositum	Period	Animacy3	Animacy	Freq	Rolle {L.S.}	Moralische Bewertung	Prestige_Lemma
+S394_Z143	Amman	menschlich	ammann	NB	Riedlingen	1596	WAHR	0	male	0	1	animate	4	3	Geschädigter	positiv	WAHR
+S393_Z100	Ammanß	menschlich	ammann	NB	Riedlingen	1596	WAHR	0	male	0	1	animate	4	3	Geschädigter	positiv	WAHR
+S393_Z105	Ammanß	menschlich	ammann	NB	Riedlingen	1596	WAHR	0	male	0	1	animate	4	3	Geschädigter	positiv	WAHR
+S221_Z55	Ammen	menschlich	amme	NN	Gaugrehweiler	1610	WAHR	0	fem	0	2	animate	3	4	Geschädigte	positiv	FALSCH
+S221_Z58	Ammen	menschlich	amme	NN	Gaugrehweiler	1610	WAHR	0	fem	0	2	animate	3	4	Geschädigte	positiv	FALSCH
+S221_Z64	Ammen	menschlich	amme	NN	Gaugrehweiler	1610	WAHR	0	fem	0	2	animate	3	4	Geschädigte	positiv	FALSCH
+S221_Z66	Ammen	menschlich	amme	NN	Gaugrehweiler	1610	WAHR	0	fem	0	2	animate	3	4	Geschädigte	positiv	FALSCH
+S250_Z6	Ambtman	menschlich	amtmann	NB	Lemberg	1630	WAHR	0	male	1	3	animate	4	1	Justiz&Helfer	positiv	WAHR
+S323_Z329	Ambtschreiber	menschlich	amtschreiber	NB	Rosenburg	1618	WAHR	1	male	1	2	animate	4	1	nicht entschieden	neutral	WAHR
+S293_Z105	Amptsknechts	menschlich	amtsknecht	NB	Georgenthal	1597	WAHR	1	male	1	1	animate	4	1	Justiz&Helfer	positiv	FALSCH
+S293_Z90	Bade Magdt	menschlich	bademagd	NB	Georgenthal	1597	WAHR	1	fem	0	1	animate	3	1	Geschädigte	positiv	FALSCH
+S418_Z218	Beürin	menschlich	bauer	NB	Bamberg	1628	WAHR	1	fem	0	3	animate	4	9	Denunzierte	negativ	FALSCH
+S418_T223LN	Beürin	menschlich	bauer	NB	Bamberg	1628	WAHR	1	fem	0	3	animate	4	9	Denunzierte	negativ	FALSCH
+S227_Z45	bauwren	menschlich	bauer	NB	Hamm	1592	FALSCH	0	male	0	1	animate	4	9	nicht entschieden	neutral	FALSCH
+S468_Z256	Paur	menschlich	bauer	NB	München	1600	WAHR	1	male	0	1	animate	4	9	nicht entschieden	neutral	FALSCH
+S479_Z320	Paur	menschlich	bauer	NB	München	1600	WAHR	1	male	0	1	animate	4	9	Geschädigter	positiv	FALSCH
+S470_Z328	Paur	menschlich	bauer	NB	München	1600	WAHR	1	male	0	1	animate	4	9	Geschädigter	positiv	FALSCH
+S466_Z169	Paurn	menschlich	bauer	NB	München	1600	WAHR	1	male	0	1	animate	4	9	nicht entschieden	neutral	FALSCH
+S470_Z319	Paurn	menschlich	bauer	NB	München	1600	WAHR	1	male	0	1	animate	4	9	Geschädigter	positiv	FALSCH
+S318_Z33	Bawern	menschlich	bauer	NB	Rosenburg	1618	WAHR	1	male	0	2	animate	4	9	Geschädigter	positiv	FALSCH
+S313_Z151	Pauerknecht	menschlich	bauerknecht	NB	Ostrau	1628	WAHR	1	male	1	3	animate	4	1	nicht entschieden	neutral	FALSCH
+S318_Z18	beAmbten	menschlich	beamte	NB	Rosenburg	1618	FALSCH	1	male	0	2	animate	4	1	Justiz&Helfer	positiv	WAHR
+S220_Z19	bettell frau	menschlich	bettelfrau	NN	Gaugrehweiler	1610	FALSCH	0	fem	1	2	animate	3	1	Denunzierte	negativ	FALSCH
+S505_Z226	betteljungen	menschlich	betteljunge	NN	Schweinfurt	1616	FALSCH	1	male	1	2	animate	4	1	Denunzierter	negativ	FALSCH
+S467_Z199	Petler	menschlich	bettler	NB	München	1600	WAHR	1	male	0	1	animate	4	2	nicht entschieden	neutral	FALSCH
+S169_Z125	bettler	menschlich	bettler	NN	Perleberg	1588	FALSCH	1	male	0	1	animate	4	2	Denunzierter	negativ	FALSCH
+S81_Z96	brudt	menschlich	braut	NN	Meldorf	1618	FALSCH	0	fem	0	2	animate	3	1	Geschädigte	positiv	FALSCH
+S59_Z26	Brodernn	menschlich	bruder	NN	Jever	1592	WAHR	0	male	0	1	animate	4	4	nicht entschieden	neutral	FALSCH
+S61_Z85	Bruder	menschlich	bruder	NN	Jever	1592	WAHR	0	male	0	1	animate	4	4	nicht entschieden	neutral	FALSCH
+S59_Z18	Bruders	menschlich	bruder	NN	Jever	1592	WAHR	0	male	0	1	animate	4	4	nicht entschieden	neutral	FALSCH
+S179_Z232	Brueder	menschlich	bruder	NN	Stralsund	1630	WAHR	1	male	0	3	animate	4	4	nicht entschieden	neutral	FALSCH
+S468_Z236	Pueb	menschlich	bub	NN	München	1600	WAHR	1	male	0	1	animate	4	2	nicht entschieden	neutral	FALSCH
+S470_Z330	Pueb	menschlich	bub	NN	München	1600	WAHR	1	male	0	1	animate	4	2	nicht entschieden	neutral	FALSCH
+S465_Z131	Pueben	menschlich	bube	NN	München	1600	WAHR	1	male	0	1	animate	4	3	nicht entschieden	neutral	FALSCH
+S469_Z289	Pueben	menschlich	bube	NN	München	1600	WAHR	1	male	0	1	animate	4	3	Denunzierter	negativ	FALSCH
+S470_Z332	Pueben	menschlich	bube	NN	München	1600	WAHR	1	male	0	1	animate	4	3	Denunzierter	negativ	FALSCH
+S413_Z4	Burgermeister	menschlich	burgermeister	NB	Bamberg	1628	WAHR	1	male	0	3	animate	4	5	Angeklagter	negativ	WAHR
+S417_Z196LN	Burgermeister	menschlich	burgermeister	NB	Bamberg	1628	WAHR	1	male	0	3	animate	4	5	Denunzierter	negativ	WAHR
+S417_Z197	Burgermeister	menschlich	burgermeister	NB	Bamberg	1628	WAHR	1	male	0	3	animate	4	5	Denunzierter	negativ	WAHR
+S159_Z107	Burgermeister	menschlich	burgermeister	NB	Güstrow	1615	WAHR	1	male	0	2	animate	4	5	nicht entschieden	neutral	WAHR
+S160_Z120	Burgermeister	menschlich	burgermeister	NB	Güstrow	1615	WAHR	1	male	0	2	animate	4	5	nicht entschieden	neutral	WAHR
+S159_Z99	burgk- mans	menschlich	burgmann	NB	Güstrow	1615	FALSCH	1	male	0	2	animate	4	10	Geschädigter	positiv	WAHR
+S159_Z102	burgk- mans	menschlich	burgmann	NB	Güstrow	1615	FALSCH	1	male	0	2	animate	4	10	Geschädigter	positiv	WAHR
+S158_Z63	burgkman	menschlich	burgmann	NB	Güstrow	1615	FALSCH	1	male	0	2	animate	4	10	Geschädigter	positiv	WAHR
+S158_Z68	burgkman	menschlich	burgmann	NB	Güstrow	1615	FALSCH	1	male	0	2	animate	4	10	Geschädigter	positiv	WAHR
+S158_Z72	burgkman	menschlich	burgmann	NB	Güstrow	1615	FALSCH	1	male	0	2	animate	4	10	Geschädigter	positiv	WAHR
+S159_Z77	burgkman	menschlich	burgmann	NB	Güstrow	1615	FALSCH	1	male	0	2	animate	4	10	Geschädigter	positiv	WAHR
+S159_Z81	burgkman	menschlich	burgmann	NB	Güstrow	1615	FALSCH	1	male	0	2	animate	4	10	Geschädigter	positiv	WAHR
+S159_Z105	burgkman	menschlich	burgmann	NB	Güstrow	1615	FALSCH	1	male	0	2	animate	4	10	Geschädigter	positiv	WAHR
+S161_Z163	burgkman	menschlich	burgmann	NB	Güstrow	1615	FALSCH	1	male	0	2	animate	4	10	Geschädigter	positiv	WAHR
+S160_Z149	Burgkmans	menschlich	burgmann	NB	Güstrow	1615	WAHR	1	male	0	2	animate	4	10	nicht entschieden	neutral	WAHR
+S417_Z205	Pütner	menschlich	büttner	NB	Bamberg	1628	WAHR	1	male	0	3	animate	4	1	Denunzierter	negativ	FALSCH
+S2954_Z149LN	dieb	menschlich	dieb	NN	Georgenthal	1597	FALSCH	1	male	0	1	animate	4	4	Denunzierter	negativ	FALSCH
+S295_Z174LN	dieb	menschlich	dieb	NN	Georgenthal	1597	FALSCH	1	male	0	1	animate	4	4	Denunzierter	negativ	FALSCH
+S466_Z187	dieb	menschlich	dieb	NN	München	1600	FALSCH	1	male	0	1	animate	4	4	Denunzierter 	negativ	FALSCH
+S170_Z193	dieb	menschlich	dieb	NN	Perleberg	1588	FALSCH	1	male	0	1	animate	4	4	Denunzierter	negativ	FALSCH
+S160_Z123	diener	menschlich	diener	NN	Güstrow	1615	FALSCH	1	male	0	2	animate	4	2	nicht entschieden	neutral	FALSCH
+S160_Z135	diener	menschlich	diener	NN	Güstrow	1615	FALSCH	1	male	0	2	animate	4	2	nicht entschieden	neutral	FALSCH
+S161_Z157	dienst knecht	menschlich	dienstknecht	NB	Güstrow	1615	FALSCH	1	male	1	2	animate	4	1	nicht entschieden	neutral	FALSCH
+S341_Z150	Doctor	menschlich	doctor	NB	Baden-Baden	1628	WAHR	0	male	0	3	animate	4	14	Justiz&Helfer	positiv	WAHR
+S413_Z19	Doctor	menschlich	doctor	NB	Bamberg	1628	WAHR	1	male	0	3	animate	4	14	Justiz&Helfer	positiv	WAHR
+S419_Z301	doctor	menschlich	doctor	NB	Bamberg	1628	FALSCH	1	male	0	3	animate	4	14	nicht entschieden	neutral	WAHR
+S413_Z3LN	doctor	menschlich	doctor	NB	Bamberg	1628	FALSCH	1	male	0	3	animate	4	14	Justiz&Helfer	positiv	WAHR
+S413_Z4LN	doctor	menschlich	doctor	NB	Bamberg	1628	FALSCH	1	male	0	3	animate	4	14	Justiz&Helfer	positiv	WAHR
+S419_Z266LN	Doctor	menschlich	doctor	NB	Bamberg	1628	WAHR	1	male	0	3	animate	4	14	Justiz&Helfer	positiv	WAHR
+S413_Z5LN	doctor	menschlich	doctor	NB	Bamberg	1628	FALSCH	1	male	0	3	animate	4	14	Justiz&Helfer	positiv	WAHR
+S419_Z264	Doctor	menschlich	doctor	NB	Bamberg	1628	WAHR	1	male	0	3	animate	4	14	Denunzierter	negativ	WAHR
+S417_Z198	doctor	menschlich	doctor	NB	Bamberg	1628	FALSCH	1	male	0	3	animate	4	14	Denunzierter	negativ	WAHR
+S413_Z6LN	doctor	menschlich	doctor	NB	Bamberg	1628	FALSCH	1	male	0	3	animate	4	14	Justiz&Helfer	positiv	WAHR
+S250_Z4	Doctorn	menschlich	doctor	NB	Lemberg	1630	WAHR	0	male	0	3	animate	4	14	Justiz&Helfer	positiv	WAHR
+S464_Z92LN	Doctor	menschlich	doctor	NB	München	1600	WAHR	1	male	0	1	animate	4	14	Justiz&Helfer	positiv	WAHR
+S464_Z93LN	Doctor	menschlich	doctor	NB	München	1600	WAHR	1	male	0	1	animate	4	14	Justiz&Helfer	positiv	WAHR
+S179_Z224	Doctoren	menschlich	doctor	NB	Stralsund	1630	WAHR	1	male	0	3	animate	4	14	nicht entschieden	neutral	WAHR
+S59_Z21	eheman	menschlich	ehemann	NN	Jever	1592	FALSCH	0	male	1	1	animate	4	3	Zeuge	neutral	FALSCH
+S157_Z5	eheman	menschlich	ehemann	NN	Güstrow	1615	FALSCH	1	male	1	2	animate	4	3	nicht entschieden	neutral	FALSCH
+S311_Z88	Ehemanne	menschlich	ehemann	NN	Ostrau	1628	WAHR	1	male	1	3	animate	4	3	nicht entschieden	neutral	FALSCH
+S500_Z8	In- wohners	menschlich	einwohner	NN	Schweinfurt	1616	WAHR	1	male	0	2	animate	4	1	nicht entschieden	neutral	FALSCH
+S465_Z130	Feldthüetter	menschlich	feldhüter	NB	München	1600	WAHR	1	male	1	1	animate	4	1	nicht entschieden	neutral	FALSCH
+S11_Z10	frauw	menschlich	frau	NN	Alme	1630	FALSCH	0	fem	0	3	animate	3	70	Denunzierte	negativ	FALSCH
+S15_Z193	frauw	menschlich	frau	NN	Alme	1630	FALSCH	0	fem	0	3	animate	3	70	Denunzierte	negativ	FALSCH
+S15_Z195	frauw	menschlich	frau	NN	Alme	1630	FALSCH	0	fem	0	3	animate	3	70	Denunzierte	negativ	FALSCH
+S13_Z86	frauwen	menschlich	frau	NN	Alme	1630	FALSCH	0	fem	0	3	animate	3	70	Denunzierte	negativ	FALSCH
+S13_Z_89	frauwen	menschlich	frau	NN	Alme	1630	FALSCH	0	fem	0	3	animate	3	70	Denunzierte	negativ	FALSCH
+S417_Z208	fraw	menschlich	frau	NN	Bamberg	1628	FALSCH	1	fem	0	3	animate	3	70	Denunzierte	negativ	FALSCH
+S417_Z209	fraw	menschlich	frau	NN	Bamberg	1628	FALSCH	1	fem	0	3	animate	3	70	Denunzierte	negativ	FALSCH
+S417_Z209	fraw	menschlich	frau	NN	Bamberg	1628	FALSCH	1	fem	0	3	animate	3	70	Denunzierte 	negativ	FALSCH
+S417_Z210LN	fraw	menschlich	frau	NN	Bamberg	1628	FALSCH	1	fem	0	3	animate	3	70	Denunzierte	negativ	FALSCH
+S417_Z211LN	fraw	menschlich	frau	NN	Bamberg	1628	FALSCH	1	fem	0	3	animate	3	70	Denunzierte	negativ	FALSCH
+S417_Z211LN	fraw	menschlich	frau	NN	Bamberg	1628	FALSCH	1	fem	0	3	animate	3	70	Denunzierte	negativ	FALSCH
+S417_Z217	fraw	menschlich	frau	NN	Bamberg	1628	FALSCH	1	fem	0	3	animate	3	70	Denunzierte	negativ	FALSCH
+S418_Z256LN	fraw	menschlich	frau	NN	Bamberg	1628	FALSCH	1	fem	0	3	animate	3	70	Denunzierte	negativ	FALSCH
+S418_Z259LN	fraw	menschlich	frau	NN	Bamberg	1628	FALSCH	1	fem	0	3	animate	3	70	Denunzierte	negativ	FALSCH
+S418_Z259	fraw	menschlich	frau	NN	Bamberg	1628	FALSCH	1	fem	0	3	animate	3	70	Denunzierte	negativ	FALSCH
+S418_Z260	fraw	menschlich	frau	NN	Bamberg	1628	FALSCH	1	fem	0	3	animate	3	70	Denunzierte	negativ	FALSCH
+S418_Z261	fraw	menschlich	frau	NN	Bamberg	1628	FALSCH	1	fem	0	3	animate	3	70	Denunzierte	negativ	FALSCH
+S292_Z64	frawen	menschlich	frau	NN	Georgenthal	1597	FALSCH	1	fem	0	1	animate	3	70	Geschädigte	positiv	FALSCH
+S157_Z1	fraw	menschlich	frau	NN	Güstrow	1615	FALSCH	1	fem	0	2	animate	3	70	Angeklagte	negativ	FALSCH
+S161_Z175	fraw	menschlich	frau	NN	Güstrow	1615	FALSCH	1	fem	0	2	animate	3	70	Geschädigte	positiv	FALSCH
+S163_Z260	Frawe	menschlich	frau	NN	Güstrow	1615	WAHR	1	fem	0	2	animate	3	70	Geschädigte	positiv	FALSCH
+S160_Z154	Frawen	menschlich	frau	NN	Güstrow	1615	WAHR	1	fem	0	2	animate	3	70	Geschädigte	positiv	FALSCH
+S163_Z258	Frawen	menschlich	frau	NN	Güstrow	1615	WAHR	1	fem	0	2	animate	3	70	Geschädigte	positiv	FALSCH
+S226_Z3	frauwe	menschlich	frau	NN	Hamm	1592	FALSCH	0	fem	0	1	animate	3	70	Angeklagte	negativ	FALSCH
+S228_Z113	frauwe	menschlich	frau	NN	Hamm	1592	FALSCH	0	fem	0	1	animate	3	70	Angeklagte	negativ	FALSCH
+S229_Z124	frauwe	menschlich	frau	NN	Hamm	1592	FALSCH	0	fem	0	1	animate	3	70	Geschädigte	positiv	FALSCH
+S229_Z127	frauwe	menschlich	frau	NN	Hamm	1592	FALSCH	0	fem	0	1	animate	3	70	Geschädigte	positiv	FALSCH
+S230_Z159	frauwe	menschlich	frau	NN	Hamm	1592	FALSCH	0	fem	0	1	animate	3	70	Denunzierte	negativ	FALSCH
+S230_Z160	frauwe	menschlich	frau	NN	Hamm	1592	FALSCH	0	fem	0	1	animate	3	70	Denunzierte	negativ	FALSCH
+S229_Z138	frauwen	menschlich	frau	NN	Hamm	1592	FALSCH	0	fem	0	1	animate	3	70	nicht entschieden	neutral	FALSCH
+S251_Z70	fraw	menschlich	frau	NN	Lemberg	1630	FALSCH	0	fem	0	3	animate	3	70	Denunzierte	negativ	FALSCH
+S251_Z72	Fraw	menschlich	frau	NN	Lemberg	1630	WAHR	0	fem	0	3	animate	3	70	Denunzierte	negativ	FALSCH
+S251_Z77	Fraw	menschlich	frau	NN	Lemberg	1630	WAHR	0	fem	0	3	animate	3	70	Denunzierte	negativ	FALSCH
+S251_Z85	Fraw	menschlich	frau	NN	Lemberg	1630	WAHR	0	fem	0	3	animate	3	70	Denunzierte	negativ	FALSCH
+S252_Z114	Fraw	menschlich	frau	NN	Lemberg	1630	WAHR	0	fem	0	3	animate	3	70	Denunzierte	negativ	FALSCH
+S253_Z128	Fraw	menschlich	frau	NN	Lemberg	1630	WAHR	0	fem	0	3	animate	3	70	Denunzierte	negativ	FALSCH
+S253_Z134	fraw	menschlich	frau	NN	Lemberg	1630	FALSCH	0	fem	0	3	animate	3	70	Denunzierte	negativ	FALSCH
+S253_Z134	fraw	menschlich	frau	NN	Lemberg	1630	FALSCH	0	fem	0	3	animate	3	70	Denunzierte	negativ	FALSCH
+S253_Z153	Fraw	menschlich	frau	NN	Lemberg	1630	WAHR	0	fem	0	3	animate	3	70	Denunzierte	negativ	FALSCH
+S253_Z154	Fraw	menschlich	frau	NN	Lemberg	1630	WAHR	0	fem	0	3	animate	3	70	Denunzierte	negativ	FALSCH
+S254_Z170	Fraw	menschlich	frau	NN	Lemberg	1630	WAHR	0	fem	0	3	animate	3	70	Denunzierte	negativ	FALSCH
+S254_Z170	Fraw	menschlich	frau	NN	Lemberg	1630	WAHR	0	fem	0	3	animate	3	70	Denunzierte	negativ	FALSCH
+S80_Z65	fruwe	menschlich	frau	NN	Meldorf	1618	FALSCH	0	fem	0	2	animate	3	70	Geschädigte	positiv	FALSCH
+S80_Z67	fruwe	menschlich	frau	NN	Meldorf	1618	FALSCH	0	fem	0	2	animate	3	70	Geschädigte	positiv	FALSCH
+S81_Z73	fruwe	menschlich	frau	NN	Meldorf	1618	FALSCH	0	fem	0	2	animate	3	70	Geschädigte	positiv	FALSCH
+S81_Z77	fruwe	menschlich	frau	NN	Meldorf	1618	FALSCH	0	fem	0	2	animate	3	70	Geschädigte	positiv	FALSCH
+S81_Z83	fruwe	menschlich	frau	NN	Meldorf	1618	FALSCH	0	fem	0	2	animate	3	70	Geschädigte	positiv	FALSCH
+S80_Z68	fruwen	menschlich	frau	NN	Meldorf	1618	FALSCH	0	fem	0	2	animate	3	70	Geschädigte	positiv	FALSCH
+S81_85	fruwen	menschlich	frau	NN	Meldorf	1618	FALSCH	0	fem	0	2	animate	3	70	Geschädigte	positiv	FALSCH
+S170_Z199	frawen	menschlich	frau	NN	Perleberg	1588	FALSCH	1	fem	0	1	animate	3	70	Geschädigte	positiv	FALSCH
+S500_Z25	fraw	menschlich	frau	NN	Schweinfurt	1616	FALSCH	1	fem	0	2	animate	3	70	Angeklagte	negativ	FALSCH
+S501_Z62	Fraw	menschlich	frau	NN	Schweinfurt	1616	WAHR	1	fem	0	2	animate	3	70	Angeklagte	negativ	FALSCH
+S501_Z68	fraw	menschlich	frau	NN	Schweinfurt	1616	FALSCH	1	fem	0	2	animate	3	70	Angeklagte	negativ	FALSCH
+S500_Z39	Frawen	menschlich	frau	NN	Schweinfurt	1616	WAHR	1	fem	0	2	animate	3	70	Angeklagte	negativ	FALSCH
+S502_Z96	frawen	menschlich	frau	NN	Schweinfurt	1616	FALSCH	1	fem	0	2	animate	3	70	Angeklagte	negativ	FALSCH
+S175_Z61	Fraw	menschlich	frau	NN	Stralsund	1630	WAHR	1	fem	0	3	animate	3	70	Zeugin	neutral	FALSCH
+S175_Z72	Fraw	menschlich	frau	NN	Stralsund	1630	WAHR	1	fem	0	3	animate	3	70	Geschädigte	positiv	FALSCH
+S175_Z75	Fraw	menschlich	frau	NN	Stralsund	1630	WAHR	1	fem	0	3	animate	3	70	Geschädigte	positiv	FALSCH
+S178_Z187	Fraw	menschlich	frau	NN	Stralsund	1630	WAHR	1	fem	0	3	animate	3	70	Denunzierte	negativ	FALSCH
+S174_Z37	Frawe	menschlich	frau	NN	Stralsund	1630	WAHR	1	fem	0	3	animate	3	70	Geschädigte	positiv	FALSCH
+S177_Z150	Frawe	menschlich	frau	NN	Stralsund	1630	WAHR	1	fem	0	3	animate	3	70	Geschädigte	positiv	FALSCH
+S179_Z218	Frawe	menschlich	frau	NN	Stralsund	1630	WAHR	1	fem	0	3	animate	3	70	Denunzierte	negativ	FALSCH
+S179_Z222	Frawe	menschlich	frau	NN	Stralsund	1630	WAHR	1	fem	0	3	animate	3	70	nicht entschieden	neutral	FALSCH
+S174_Z13	Frawen	menschlich	frau	NN	Stralsund	1630	WAHR	1	fem	0	3	animate	3	70	Angeklagte	negativ	FALSCH
+S174_Z21	Frawen	menschlich	frau	NN	Stralsund	1630	WAHR	1	fem	0	3	animate	3	70	Geschädigte	positiv	FALSCH
+S174_Z27	frawen	menschlich	frau	NN	Stralsund	1630	FALSCH	1	fem	0	3	animate	3	70	Geschädigte	positiv	FALSCH
+S174_Z35	Frawen	menschlich	frau	NN	Stralsund	1630	WAHR	1	fem	0	3	animate	3	70	Geschädigte	positiv	FALSCH
+S177_Z159	Frawen	menschlich	frau	NN	Stralsund	1630	WAHR	1	fem	0	3	animate	3	70	Geschädigte	positiv	FALSCH
+S176_Z113	frawen	menschlich	frau	NN	Stralsund	1630	FALSCH	1	fem	0	3	animate	3	70	nicht entschieden	neutral	FALSCH
+S65_Z261	Frawe	menschlich	frau	NN	Jever	1592	WAHR	0	fem	0	1	animate	3	70	Angeklagte	negativ	FALSCH
+S168_Z89	freunde	menschlich	freund	NN	Perleberg	1588	FALSCH	1	male	0	1	animate	4	2	Geschädigter	positiv	FALSCH
+S323_Z223	freunde	menschlich	freund	NN	Rosenburg	1618	FALSCH	1	male	0	2	animate	4	2	nicht entschieden	neutral	FALSCH
+S416_Z166	Gärtner	menschlich	gärtner	NB	Bamberg	1628	WAHR	1	male	0	3	animate	4	1	Denunzierter	negativ	FALSCH
+S310_Z40	Gaste	menschlich	gast	NN	Ostrau	1628	WAHR	1	male	0	3	animate	4	2	nicht entschieden	neutral	FALSCH
+S313_Z145	Gaste	menschlich	gast	NN	Ostrau	1628	WAHR	1	male	0	3	animate	4	2	nicht entschieden	neutral	FALSCH
+S170_Z181	geistin	menschlich	geistin	NN	Perleberg	1588	FALSCH	1	fem	0	1	animate	3	1	nicht entschieden	neutral	FALSCH
+S293_Z107	Gerichtsknecht	menschlich	gerichtsknecht	NB	Georgenthal	1597	WAHR	1	male	1	1	animate	4	2	Justiz&Helfer	positiv	FALSCH
+S222_Z79	gerichtscheffen	menschlich	gerichtsschöffe	NB	Gaugrehweiler	1610	FALSCH	0	male	1	2	animate	4	2	Justiz&Helfer	positiv	WAHR
+S291_Z9	Gerichts Schöpffenn	menschlich	gerichtsschöffe	NB	Georgenthal	1597	WAHR	1	male	1	1	animate	4	2	Justiz&Helfer	positiv	WAHR
+S467_Z201	gesell	menschlich	geselle	NN	München	1600	FALSCH	1	male	0	1	animate	4	3	nicht entschieden	neutral	FALSCH
+S469_Z284	gesellen	menschlich	geselle	NB	München	1600	FALSCH	1	male	0	1	animate	4	3	Denunzierter 	negativ	FALSCH
+S463_Z56	gesöllen	menschlich	geselle	NN	München	1600	FALSCH	1	male	0	1	animate	4	3	nicht entschieden	neutral	FALSCH
+S347_Z106	gespielen	menschlich	gespiele	NN	Günzburg	1613	FALSCH	0	male	0	2	animate	4	2	Denunzierter	negativ	FALSCH
+S394_Z126	gespilen	menschlich	gespiele	NN	Riedlingen	1596	FALSCH	0	male	0	1	animate	4	2	Denunzierter	negativ	FALSCH
+S228_Z109	geuatter	menschlich	gevatter	NN	Hamm	1592	FALSCH	0	male	0	1	animate	4	2	nicht entschieden	neutral	FALSCH
+S229_Z155	Geuatters	menschlich	gevatter	NN	Hamm	1592	WAHR	0	fem	0	1	animate	4	2	Angeklagte	negativ	FALSCH
+S12_Z51	Graue	menschlich	graf	NB	Alme	1630	WAHR	0	male	0	3	animate	4	2	Denunzierter	negativ	WAHR
+S14_Z113	Grauen	menschlich	graf	NB	Alme	1630	WAHR	0	male	0	3	animate	4	2	Zeuge	neutral	WAHR
+SCHW1	Jung	menschlich	junge	NN	Schweinfurt	1616	WAHR	1	male	0	2	animate	4	11	Geschädigter	positiv	FALSCH
+SCHW2	Jung	menschlich	junge	NN	Schweinfurt	1616	WAHR	1	male	0	2	animate	4	11	Geschädigter	positiv	FALSCH
+SCHW3	Jung	menschlich	junge	NN	Schweinfurt	1616	WAHR	1	male	0	2	animate	4	11	Angeklagter	negativ	FALSCH
+SCHW4	Jung	menschlich	junge	NN	Schweinfurt	1616	WAHR	1	male	0	2	animate	4	11	Angeklagter	negativ	FALSCH
+S508_Z371	Jung	menschlich	junge	NN	Schweinfurt	1616	WAHR	1	male	0	2	animate	4	11	Denunzierter	negativ	FALSCH
+S507_Z335	Junge	menschlich	junge	NN	Schweinfurt	1616	WAHR	1	male	0	2	animate	4	11	Geschädigter	positiv	FALSCH
+S507_Z319	Jungen	menschlich	junge	NN	Schweinfurt	1616	WAHR	1	male	0	2	animate	4	11	Geschädigter	positiv	FALSCH
+S507_Z324	Jungen	menschlich	junge	NN	Schweinfurt	1616	WAHR	1	male	0	2	animate	4	11	Geschädigter	positiv	FALSCH
+S507_Z332	Jungen	menschlich	junge	NN	Schweinfurt	1616	WAHR	1	male	0	2	animate	4	11	Geschädigter	positiv	FALSCH
+S508_Z359	Jungen	menschlich	junge	NN	Schweinfurt	1616	WAHR	1	male	0	2	animate	4	11	nicht entschieden	neutral	FALSCH
+S508_Z340	Jungens	menschlich	junge	NN	Schweinfurt	1616	WAHR	1	male	0	2	animate	4	11	Geschädigter	positiv	FALSCH
+S11_Z22	Junffer	menschlich	jungfer	NN	Alme	1630	WAHR	0	fem	0	3	animate	3	1	Denunzierte	negativ	FALSCH
+S419_Z282	Jungfraw	menschlich	jungfrau	NN	Bamberg	1628	WAHR	1	fem	0	3	animate	3	2	Geschädigte	positiv	FALSCH
+S250_Z7	Junckhern	menschlich	junker	NB	Lemberg	1630	WAHR	0	male	0	3	animate	4	1	Justiz&Helfer	positiv	FALSCH
+S417_Z195LN	Cantzler	menschlich	kanzler	NB	Bamberg	1628	WAHR	1	male	0	3	animate	4	3	Denunzierter	negativ	WAHR
+S417_Z197	Cantzler	menschlich	kanzler	NN	Bamberg	1628	WAHR	1	male	0	3	animate	4	3	Justiz&Helfer	positiv	WAHR
+S413_Z43	Cantzlern	menschlich	kanzler	NB	Bamberg	1628	WAHR	1	male	0	3	animate	4	3	Denunzierter	negativ	WAHR
+S161_Z159	kerll	menschlich	kerl	NN	Güstrow	1615	FALSCH	1	male	0	2	animate	4	1	Geschädigter	positiv	FALSCH
+S467_Z198	Khessler	menschlich	kesseler	NB	München	1600	WAHR	1	male	0	1	animate	4	1	nicht entschieden	neutral	FALSCH
+S226_Z3	Cleger	menschlich	kläger	NN	Hamm	1592	WAHR	0	male	0	1	animate	4	5	Kläger	positiv	FALSCH
+S226_Z11	Cleger	menschlich	kläger	NN	Hamm	1592	WAHR	0	male	0	1	animate	4	5	Kläger	positiv	FALSCH
+S231_Z195	Cleger	menschlich	kläger	NN	Hamm	1592	WAHR	0	male	0	1	animate	4	5	Kläger	positiv	FALSCH
+S226_Z7	Clegern	menschlich	kläger	NN	Hamm	1592	WAHR	0	male	0	1	animate	4	5	Kläger	positiv	FALSCH
+S82_Z118	Clegern	menschlich	kläger	NN	Meldorf	1618	WAHR	0	male	0	2	animate	4	5	Kläger	positiv	FALSCH
+S500_Z23	Clägerin	menschlich	klägerin	NN	Schweinfurt	1616	WAHR	1	fem	0	2	animate	3	7	Klägerin	positiv	FALSCH
+S500_Z31	Clägerin	menschlich	klägerin	NN	Schweinfurt	1616	WAHR	1	fem	0	2	animate	3	7	Klägerin	positiv	FALSCH
+S500_Z37	Clägerin	menschlich	klägerin	NN	Schweinfurt	1616	WAHR	1	fem	0	2	animate	3	7	Klägerin	positiv	FALSCH
+S501_Z44	Clägerin	menschlich	klägerin	NN	Schweinfurt	1616	WAHR	1	fem	0	2	animate	3	7	Klägerin	positiv	FALSCH
+S501_Z57	Clägerin	menschlich	klägerin	NN	Schweinfurt	1616	WAHR	1	fem	0	2	animate	3	7	Klägerin	positiv	FALSCH
+S502_Z95	Clägerin	menschlich	klägerin	NN	Schweinfurt	1616	WAHR	1	fem	0	2	animate	3	7	Klägerin	positiv	FALSCH
+S502_Z119	Clägerin	menschlich	klägerin	NN	Schweinfurt	1616	WAHR	1	fem	0	2	animate	3	7	Klägerin	positiv	FALSCH
+S65_264	knechte	menschlich	knecht	NN	Jever	1592	FALSCH	0	male	0	1	animate	4	5	Justiz&Helfer	positiv	FALSCH
+S339_Z77	knecht	menschlich	knecht	NN	Baden-Baden	1628	FALSCH	0	male	0	3	animate	4	5	Justiz&Helfer	positiv	FALSCH
+S163_Z233	knechtt	menschlich	knecht	NB	Güstrow	1615	FALSCH	1	male	0	2	animate	4	5	nicht entschieden	neutral	FALSCH
+S163_Z247	knechtt	menschlich	knecht	NB	Güstrow	1615	FALSCH	1	male	0	2	animate	4	5	nicht entschieden	neutral	FALSCH
+S325_Z291	knecht	menschlich	knecht	NB	Rosenburg	1618	FALSCH	1	male	0	2	animate	4	5	nicht entschieden	neutral	FALSCH
+S465_Z146	Khramer	menschlich	kramer	NB	München	1600	WAHR	1	male	0	1	animate	4	3	nicht entschieden	neutral	FALSCH
+S467_Z195	Khramer	menschlich	kramer	NB	München	1600	WAHR	1	male	0	1	animate	4	3	nicht entschieden	neutral	FALSCH
+S467_Z200	Khramer	menschlich	kramer	NB	München	1600	WAHR	1	male	0	1	animate	4	3	nicht entschieden	neutral	FALSCH
+S251_Z51	krieger	menschlich	krieger	NN	Lemberg	1630	FALSCH	0	male	0	3	animate	4	1	nicht entschieden	neutral	FALSCH
+S222_Z78	kuehirt	menschlich	kuhhirt	NB	Gaugrehweiler	1610	FALSCH	0	male	1	2	animate	4	5	Kläger	positiv	FALSCH
+S222_Z86	kuehirt	menschlich	kuhhirt	NB	Gaugrehweiler	1610	FALSCH	0	male	1	2	animate	4	5	Kläger	positiv	FALSCH
+S222_Z88	kuehirt	menschlich	kuhhirt	NB	Gaugrehweiler	1610	FALSCH	0	male	1	2	animate	4	5	Kläger	positiv	FALSCH
+S223_Z141	küehirt	menschlich	kuhhirt	NB	Gaugrehweiler	1610	FALSCH	0	male	1	2	animate	4	5	Kläger	positiv	FALSCH
+S223_Z138	küehirten	menschlich	kuhhirt	NB	Gaugrehweiler	1610	FALSCH	0	male	1	2	animate	4	5	Kläger	positiv	FALSCH
+S322_Z164	Kuesther	menschlich	küster	NB	Rosenburg	1618	WAHR	1	male	0	2	animate	4	1	Geschädigter	positiv	FALSCH
+S311_Z79	Leinenweberin	menschlich	leinenweber	NB	Ostrau	1628	WAHR	1	fem	1	3	animate	2	1	Denunzierte	negativ	FALSCH
+S464_Z101	Leinweber	menschlich	leinweber	NB	München	1600	WAHR	1	male	1	1	animate	2	1	nicht entschieden	neutral	FALSCH
+S311_Z57	Megdelein	menschlich	mägdlein	NB	Ostrau	1628	WAHR	1	fem	0	3	animate	3	5	Geschädigte	positiv	FALSCH
+S311_Z67	Megdelein	menschlich	mägdlein	NB	Ostrau	1628	WAHR	1	fem	0	3	animate	3	5	Geschädigte	positiv	FALSCH
+S313_Z162	Megdelein	menschlich	mägdlein	NB	Ostrau	1628	WAHR	1	fem	0	3	animate	3	5	Geschädigte	positiv	FALSCH
+S313_Z166	Megdelein	menschlich	mägdlein	NB	Ostrau	1628	WAHR	1	fem	0	3	animate	3	5	Geschädigte	positiv	FALSCH
+S313_Z172	Megdelein	menschlich	mägdlein	NB	Ostrau	1628	WAHR	1	fem	0	3	animate	3	5	Geschädigte	positiv	FALSCH
+S392_Z72	Medlin	menschlich	mädlein	NN	Riedlingen	1596	WAHR	0	fem	0	1	animate	3	1	Geschädigte	positiv	FALSCH
+S295_Z184	Magd	menschlich	magd	NB	Georgenthal	1597	WAHR	1	fem	0	1	animate	3	8	Denunzierte	negativ	FALSCH
+S157_Z11	Magtt	menschlich	magd	NB	Güstrow	1615	WAHR	1	fem	0	2	animate	3	8	Denunzierte	negativ	FALSCH
+S311_Z48	Magt	menschlich	magd	NB	Ostrau	1628	WAHR	1	fem	0	3	animate	3	8	Geschädigte	positiv	FALSCH
+S502_Z116	Magdt	menschlich	magd	NB	Schweinfurt	1616	WAHR	1	fem	0	2	animate	3	8	Klägerin	positiv	FALSCH
+S502_Z118	Magdt	menschlich	magd	NB	Schweinfurt	1616	WAHR	1	fem	0	2	animate	3	8	Klägerin	positiv	FALSCH
+S503_Z131	Magdt	menschlich	magd	NB	Schweinfurt	1616	WAHR	1	fem	0	2	animate	3	8	Klägerin	positiv	FALSCH
+S503_Z134	Magdt	menschlich	magd	NB	Schweinfurt	1616	WAHR	1	fem	0	2	animate	3	8	nicht entschieden	neutral	FALSCH
+S503_Z161	Magdt	menschlich	magd	NB	Schweinfurt	1616	WAHR	1	fem	0	2	animate	3	8	Klägerin	positiv	FALSCH
+S16_Z203	man	menschlich	man	NN	Alme	1630	FALSCH	0	male	0	3	animate	4	4	nicht entschieden	neutral	FALSCH
+S223_Z152	Man	menschlich	man	NN	Gaugrehweiler	1610	WAHR	0	male	0	2	animate	4	4	nicht entschieden	neutral	FALSCH
+S162_Z211	Man	menschlich	man	NN	Güstrow	1615	WAHR	1	male	0	2	animate	4	4	Geschädigter	positiv	FALSCH
+S167_Z71	man	menschlich	man	NN	Perleberg	1588	FALSCH	1	male	0	1	animate	4	4	nicht entschieden	neutral	FALSCH
+S338_Z18	Mannß	menschlich	mann	NN	Baden-Baden	1628	WAHR	0	male	0	3	animate	4	40	nicht entschieden	neutral	FALSCH
+S222_Z119	man	menschlich	mann	NN	Gaugrehweiler	1610	FALSCH	0	male	0	2	animate	4	40	nicht entschieden	neutral	FALSCH
+S223_Z148	Man	menschlich	mann	NN	Gaugrehweiler	1610	WAHR	0	male	0	2	animate	4	40	nicht entschieden	neutral	FALSCH
+S292_Z46	Mann	menschlich	mann	NN	Georgenthal	1597	WAHR	1	male	0	1	animate	4	40	nicht entschieden	neutral	FALSCH
+S292_Z58	Mann	menschlich	mann	NN	Georgenthal	1597	WAHR	1	male	0	1	animate	4	40	nicht entschieden	neutral	FALSCH
+S293_Z124	Mann	menschlich	mann	NN	Georgenthal	1597	WAHR	1	male	0	1	animate	4	40	nicht entschieden	neutral	FALSCH
+S296_Z220	Manne	menschlich	mann	NN	Georgenthal	1597	WAHR	1	male	0	1	animate	4	40	Geschädigter	positiv	FALSCH
+S293_Z117	Menner	menschlich	mann	NN	Georgenthal	1597	WAHR	1	male	0	1	animate	4	40	Geschädigter	positiv	FALSCH
+S345_Z13	Mann	menschlich	mann	NN	Günzburg	1613	WAHR	0	male	0	2	animate	4	40	nicht entschieden	neutral	FALSCH
+S349_Z164	Mann	menschlich	mann	NN	Günzburg	1613	WAHR	0	male	0	2	animate	4	40	nicht entschieden	neutral	FALSCH
+S3456_Z63	Mann	menschlich	mann	NN	Günzburg	1613	WAHR	0	male	0	2	animate	4	40	Geschädigter	positiv	FALSCH
+S347_Z107	Manns	menschlich	mann	NN	Günzburg	1613	WAHR	0	male	0	2	animate	4	40	nicht entschieden	neutral	FALSCH
+S163_Z249	Manne	menschlich	mann	NN	Güstrow	1615	WAHR	1	male	0	2	animate	4	40	nicht entschieden	neutral	FALSCH
+S227_Z37	Man	menschlich	mann	NN	Hamm	1592	WAHR	0	male	0	1	animate	4	40	nicht entschieden	neutral	FALSCH
+S227_Z40	man	menschlich	mann	NN	Hamm	1592	FALSCH	0	male	0	1	animate	4	40	nicht entschieden	neutral	FALSCH
+S227_Z39	Mann	menschlich	mann	NN	Hamm	1592	WAHR	0	male	0	1	animate	4	40	nicht entschieden	neutral	FALSCH
+S227_Z42	Mann	menschlich	mann	NN	Hamm	1592	WAHR	0	male	0	1	animate	4	40	Geschädigter	positiv	FALSCH
+S227_Z46	Mann	menschlich	mann	NN	Hamm	1592	WAHR	0	male	0	1	animate	4	40	Geschädigter	positiv	FALSCH
+S227_Z52	mann	menschlich	mann	NN	Hamm	1592	FALSCH	0	male	0	1	animate	4	40	nicht entschieden	neutral	FALSCH
+S227_Z47	Mann	menschlich	mann	NN	Hamm	1592	WAHR	0	male	0	1	animate	4	40	nicht entschieden	neutral	FALSCH
+S227_Z58	Mann	menschlich	mann	NN	Hamm	1592	WAHR	0	male	0	1	animate	4	40	Denunzierter	negativ	FALSCH
+S228_Z89	Mann	menschlich	mann	NN	Hamm	1592	WAHR	0	male	0	1	animate	4	40	nicht entschieden	neutral	FALSCH
+S228_Z91	Mann	menschlich	mann	NN	Hamm	1592	WAHR	0	male	0	1	animate	4	40	nicht entschieden	neutral	FALSCH
+S228_Z94	Mann	menschlich	mann	NN	Hamm	1592	WAHR	0	male	0	1	animate	4	40	nicht entschieden	neutral	FALSCH
+S65_Z251	Man	menschlich	mann	NN	Jever	1592	WAHR	0	male	0	1	animate	4	40	nicht entschieden	neutral	FALSCH
+S65_Z268	Man	menschlich	mann	NN	Jever	1592	WAHR	0	male	0	1	animate	4	40	nicht entschieden	neutral	FALSCH
+S59_Z27	Mann	menschlich	mann	NN	Jever	1592	WAHR	0	male	0	1	animate	4	40	Zeuge	neutral	FALSCH
+S251_Z52	Mann	menschlich	mann	NN	Lemberg	1630	WAHR	0	male	0	3	animate	4	40	nicht entschieden	neutral	FALSCH
+S251_Z65	Mann	menschlich	mann	NN	Lemberg	1630	WAHR	0	male	0	3	animate	4	40	Denunzierter 	negativ	FALSCH
+S252_Z103	Mann	menschlich	mann	NN	Lemberg	1630	WAHR	0	male	0	3	animate	4	40	nicht entschieden	neutral	FALSCH
+S467_Z197	Mann	menschlich	mann	NN	München	1600	WAHR	1	male	0	1	animate	4	40	nicht entschieden	neutral	FALSCH
+S312_Z131	Mann	menschlich	mann	NN	Ostrau	1628	WAHR	1	male	0	3	animate	4	40	nicht entschieden	neutral	FALSCH
+S310_Z36	Manne	menschlich	mann	NN	Ostrau	1628	WAHR	1	male	0	3	animate	4	40	nicht entschieden	neutral	FALSCH
+S314_Z194	Manne	menschlich	mann	NN	Ostrau	1628	WAHR	1	male	0	3	animate	4	40	nicht entschieden	neutral	FALSCH
+S393_Z92	Mann	menschlich	mann	NN	Riedlingen	1596	WAHR	0	male	0	1	animate	4	40	Geschädigter	positiv	FALSCH
+S324_Z254	man	menschlich	mann	NN	Rosenburg	1618	FALSCH	1	male	0	2	animate	4	40	Geschädigter	positiv	FALSCH
+S324_Z268	man	menschlich	mann	NN	Rosenburg	1618	FALSCH	1	male	0	2	animate	4	40	nicht entschieden	neutral	FALSCH
+S175_Z77	Man	menschlich	mann	NN	Stralsund	1630	WAHR	1	male	0	3	animate	4	40	Geschädigter	positiv	FALSCH
+S176_Z88	Manne	menschlich	mann	NN	Stralsund	1630	WAHR	1	male	0	3	animate	4	40	nicht entschieden	neutral	FALSCH
+S179_Z237	Mannes	menschlich	mann	NN	Stralsund	1630	WAHR	1	male	0	3	animate	4	40	nicht entschieden	neutral	FALSCH
+S507_Z327	Männleins	menschlich	männlein	NN	Schweinfurt	1616	WAHR	1	male	0	2	animate	4	2	nicht entschieden	neutral	FALSCH
+S507_Z330	Menn- lein	menschlich	männlein	NN	Schweinfurt	1616	WAHR	1	male	0	2	animate	4	2	nicht entschieden	neutral	FALSCH
+S339_Z77	Maisters	menschlich	meister	NN	Baden-Baden	1628	WAHR	0	male	0	3	animate	4	3	Justiz&Helfer	positiv	WAHR
+S291_Z30	Meister	menschlich	meister	NB	Georgenthal	1597	WAHR	1	male	0	1	animate	4	3	Justiz&Helfer	positiv	WAHR
+S323_Z212	Meister	menschlich	meister	NB	Rosenburg	1618	WAHR	1	male	0	2	animate	4	3	nicht entschieden	neutral	WAHR
+S465_Z126	Mezger	menschlich	metzger	NB	München	1600	WAHR	1	male	0	1	animate	4	2	nicht entschieden	neutral	FALSCH
+S465_Z132	Mezger	menschlich	metzger	NB	München	1600	WAHR	1	male	0	1	animate	4	2	nicht entschieden	neutral	FALSCH
+S506_Z297	Milchdieb	menschlich	milchdieb	NN	Schweinfurt	1616	WAHR	1	male	1	2	animate	4	4	Angeklagter	negativ	FALSCH
+S507_Z316	Milchdieb	menschlich	milchdieb	NN	Schweinfurt	1616	WAHR	1	male	1	2	animate	4	4	Angeklagter	negativ	FALSCH
+S508_Z360	Milchdieb	menschlich	milchdieb	NN	Schweinfurt	1616	WAHR	1	male	1	2	animate	4	4	Angeklagter	negativ	FALSCH
+S507_Z315LN	Milchdieb	menschlich	milchdieb	NN	Schweinfurt	1616	WAHR	1	male	1	2	animate	4	4	nicht entschieden	neutral	FALSCH
+S297_Z282	Milchdiebin	menschlich	milchdiebin	NN	Georgenthal	1597	WAHR	1	fem	1	1	animate	3	4	Angeklagte	negativ	FALSCH
+S291_Z37	Millich diebin	menschlich	milchdiebin	NN	Georgenthal	1597	WAHR	1	fem	1	1	animate	3	4	Denunzierte	negativ	FALSCH
+S295_Z194	Millich diebin	menschlich	milchdiebin	NN	Georgenthal	1597	WAHR	1	fem	1	1	animate	3	4	Angeklagte	negativ	FALSCH
+S508_Z355	Milch- diebin	menschlich	milchdiebin	NN	Schweinfurt	1616	WAHR	1	fem	1	2	animate	3	4	Denunzierte	negativ	FALSCH
+S347_106	mitgehilffen	menschlich	mitgehilfe	NN	Günzburg	1613	FALSCH	0	male	0	2	animate	4	1	Denunzierter	negativ	FALSCH
+S227_Z40	mitgesell	menschlich	mitgeselle	NB	Hamm	1592	FALSCH	0	male	0	1	animate	4	1	nicht entschieden	neutral	FALSCH
+S229_Z141	mitgespillin	menschlich	mitgespielin	NN	Hamm	1592	FALSCH	0	fem	0	1	animate	3	2	Denunzierte	negativ	FALSCH
+S253_Z146	mitgespiellen	menschlich	mitgespielin	NN	Lemberg	1630	FALSCH	0	fem	0	3	animate	3	2	nicht entschieden	neutral	FALSCH
+S64_Z233	Moder	menschlich	mutter	NN	Jever	1592	WAHR	0	fem	0	1	animate	3	12	Denunzierte	negativ	FALSCH
+S60_Z53	Mutter	menschlich	mutter	NN	Jever	1592	WAHR	0	fem	0	1	animate	3	12	Denunzierte 	negativ	FALSCH
+S60_Z79	Mutter	menschlich	mutter	NN	Jever	1592	WAHR	0	fem	0	1	animate	3	12	Denunzierte	negativ	FALSCH
+S61_Z89	Mutter	menschlich	mutter	NN	Jever	1592	WAHR	0	fem	0	1	animate	3	12	Denunzierte	negativ	FALSCH
+S159_Z112	Mutter	menschlich	mutter	NN	Güstrow	1615	WAHR	1	fem	0	2	animate	3	12	Angeklagte	negativ	FALSCH
+S160_Z125	mutter	menschlich	mutter	NN	Güstrow	1615	FALSCH	1	fem	0	2	animate	3	12	Angeklagte	negativ	FALSCH
+S464_Z99	Muetter	menschlich	mutter	NN	München	1600	WAHR	1	fem	0	1	animate	3	12	nicht entschieden	neutral	FALSCH
+S462_Z7	Muettr	menschlich	mutter	NN	München	1600	WAHR	1	fem	0	1	animate	3	12	nicht entschieden	neutral	FALSCH
+S167_Z47	mutter	menschlich	mutter	NN	Perleberg	1588	FALSCH	1	fem	0	1	animate	3	12	Angeklagte	negativ	FALSCH
+S168_Z79	mutter	menschlich	mutter	NN	Perleberg	1588	FALSCH	1	fem	0	1	animate	3	12	Angeklagte	negativ	FALSCH
+S168_Z92	mutter	menschlich	mutter	NN	Perleberg	1588	FALSCH	1	fem	0	1	animate	3	12	Angeklagte	negativ	FALSCH
+S65_Z245	Nachbarn	menschlich	nachbar	NN	Jever	1592	WAHR	0	male	0	1	animate	4	2	Geschädigter	positiv	FALSCH
+S223_Z152	Nachpauren	menschlich	nachbar	NN	Gaugrehweiler	1610	WAHR	0	male	0	2	animate	4	2	nicht entschieden	neutral	FALSCH
+S292_Z63	Nachtbarin	menschlich	nachbarin	NN	Georgenthal	1597	WAHR	1	fem	0	1	animate	3	1	Geschädigte	positiv	FALSCH
+S253_Z136	Nachkömlingen	menschlich	nachkömmling	NN	Lemberg	1630	WAHR	0	male	0	3	animate	4	1	Denunzierter	negativ	FALSCH
+S226_Z30	Nachrichters	menschlich	nachrichter	NB	Hamm	1592	WAHR	0	male	0	1	animate	4	2	Justiz&Helfer	positiv	FALSCH
+S395_Z185	Nachrichter	menschlich	nachrichter	NN	Riedlingen	1596	WAHR	0	male	0	1	animate	4	2	Justiz&Helfer	positiv	FALSCH
+S318_Z33	Nachthutter	menschlich	nachthüter	NB	Rosenburg	1618	WAHR	1	male	1	2	animate	4	1	nicht entschieden	neutral	FALSCH
+S323_Z225	Närrin	menschlich	närrin	NN	Rosenburg	1618	WAHR	1	fem	0	2	animate	3	1	Angeklagte	negativ	FALSCH
+S229_Z143	obersten 	menschlich	oberster	NB	Hamm	1592	FALSCH	0	male	0	1	animate	3	4	nicht entschieden	neutral	FALSCH
+S63_Z163	Obriste	menschlich	obrist	NN	Jever	1592	WAHR	0	male	0	1	animate	4	5	Denunzierter	negativ	FALSCH
+S63_Z173	Obrister	menschlich	obrist	NN	Jever	1592	WAHR	0	male	0	1	animate	4	5	Denunzierter	negativ	FALSCH
+S16_Z208	obrister	menschlich	obrist	NN	Alme	1630	FALSCH	0	male	0	3	animate	4	5	Denunzierter	negativ	FALSCH
+S_15_Z188	obrister	menschlich	obrist	NN	Alme	1630	FALSCH	0	male	0	3	animate	4	5	Denunzierter	negativ	FALSCH
+S16_Z224	obrister	menschlich	obrist	NN	Alme	1630	FALSCH	0	male	0	3	animate	4	5	Denunzierter	negativ	FALSCH
+S251_Z65	Paff	menschlich	paff	NB	Lemberg	1630	WAHR	0	male	0	3	animate	4	1	nicht entschieden	neutral	FALSCH
+S65_Z282	pastors	menschlich	pastor	NN	Jever	1592	FALSCH	0	male	0	1	animate	4	1	Justiz&Helfer	positiv	WAHR
+S318_Z24	Pfarrer	menschlich	pfarrer	NB	Rosenburg	1618	WAHR	1	male	0	2	animate	4	2	Zeuge	neutral	WAHR
+S318_Z11	Pfarrers	menschlich	pfarrer	NB	Rosenburg	1618	WAHR	1	male	0	2	animate	4	2	Zeuge	neutral	WAHR
+S230_Z159	peiffer	menschlich	pfeifer	NB	Hamm	1592	FALSCH	0	male	0	1	animate	4	2	Denunzierter	negativ	FALSCH
+S230_Z163	peiffer	menschlich	pfeifer	NB	Hamm	1592	FALSCH	0	male	0	1	animate	4	2	Denunzierter	negativ	FALSCH
+S501_Z46	Pfleg dochter	menschlich	pflegetochter	NN	Schweinfurt	1616	WAHR	1	fem	1	2	animate	3	1	nicht entschieden	neutral	FALSCH
+S347_Z106	Rathgebern	menschlich	ratgeber	NN	Günzburg	1613	WAHR	0	male	1	2	animate	4	1	Denunzierter	negativ	FALSCH
+S466_Z183	Rathsherr	menschlich	ratsherr	NB	München	1600	WAHR	1	male	1	1	animate	4	1	nicht entschieden	neutral	WAHR
+S296_214	Richter	menschlich	richter	NB	Georgenthal	1597	WAHR	1	male	0	1	animate	4	12	Justiz&Helfer	positiv	WAHR
+S291_Z7	Richters	menschlich	richter	NB	Georgenthal	1597	WAHR	1	male	0	1	animate	4	12	Justiz&Helfer	positiv	WAHR
+S291_Z240	Richters	menschlich	richter	NB	Georgenthal	1597	WAHR	1	male	0	1	animate	4	12	Justiz&Helfer	positiv	WAHR
+S293_Z104	Richters	menschlich	richter	NB	Georgenthal	1597	WAHR	1	male	0	1	animate	4	12	Justiz&Helfer	positiv	WAHR
+S293_Z108	Richters	menschlich	richter	NB	Georgenthal	1597	WAHR	1	male	0	1	animate	4	12	Justiz&Helfer	positiv	WAHR
+S226_Z7	Richter	menschlich	richter	NB	Hamm	1592	WAHR	0	male	0	1	animate	4	12	Justiz&Helfer	positiv	WAHR
+S226_Z11	Richter	menschlich	richter	NB	Hamm	1592	WAHR	0	male	0	1	animate	4	12	Justiz&Helfer	positiv	WAHR
+S229_Z124	Richter	menschlich	richter	NB	Hamm	1592	WAHR	0	male	0	1	animate	4	12	Geschädigter	positiv	WAHR
+S168_Z102	Richters	menschlich	richter	NB	Perleberg	1588	WAHR	1	male	0	1	animate	4	12	Justiz&Helfer	positiv	WAHR
+S395_Z168	Richter	menschlich	richter	NB	Riedlingen	1596	WAHR	0	male	0	1	animate	4	12	Justiz&Helfer	positiv	WAHR
+S321_Z160	Richter	menschlich	richter	NB	Rosenburg	1618	WAHR	1	male	0	2	animate	4	12	Justiz&Helfer	positiv	WAHR
+S323_Z238	Richter	menschlich	richter	NB	Rosenburg	1618	WAHR	1	male	0	2	animate	4	12	Justiz&Helfer	positiv	WAHR
+S295_Z178	Sack pfeiffer	menschlich	sackpfeifer	NB	Georgenthal	1597	WAHR	1	male	1	1	animate	2	2	Denunzierter	negativ	FALSCH
+S394_Z135	Sackhpfeiffer	menschlich	sackpfeifer	NN	Riedlingen	1596	WAHR	0	male	1	1	animate	2	2	Denunzierter	negativ	FALSCH
+S322_Z193	Schefferin	menschlich	schäferin	NB	Rosenburg	1618	WAHR	1	fem	0	2	animate	3	4	Geschädigte	positiv	FALSCH
+S323_Z207	Schefferin	menschlich	schäferin	NB	Rosenburg	1618	WAHR	1	fem	0	2	animate	3	4	Geschädigte	positiv	FALSCH
+S323_Z243	Schefferin	menschlich	schäferin	NB	Rosenburg	1618	WAHR	1	fem	0	2	animate	3	4	Geschädigte	positiv	FALSCH
+S17_Z244	Scheper	menschlich	schäfer	NB	Alme	1630	WAHR	0	male	0	3	animate	4	2	Geschädigter	positiv	FALSCH
+S17_Z247	schepern	menschlich	schäfer	NB	Alme	1630	FALSCH	0	male	0	3	animate	4	2	Geschädigter	positiv	FALSCH
+S320_Z101	Schäfferin	menschlich	schäferin	NB	Rosenburg	1618	WAHR	1	fem	0	2	animate	3	4	Geschädigte	positiv	FALSCH
+S223_Z135	schaffhirtin	menschlich	schafhirt	NB	Gaugrehweiler	1610	FALSCH	0	fem	1	2	animate	4	1	Denunzierte	negativ	FALSCH
+S320_Z96	Schaffmeisterin	menschlich	schafmeister	NB	Rosenburg	1618	WAHR	1	fem	1	2	animate	4	4	Geschädigte	positiv	FALSCH
+S322_Z197	Schafmeisterin	menschlich	schafmeister	NB	Rosenburg	1618	WAHR	1	fem	1	2	animate	4	4	Geschädigte	positiv	FALSCH
+S322_Z199	Schafmeisterin	menschlich	schafmeister	NB	Rosenburg	1618	WAHR	1	fem	1	2	animate	4	4	Geschädigte	positiv	FALSCH
+S323_Z217	Schafmeisterin	menschlich	schafmeister	NB	Rosenburg	1618	WAHR	1	fem	1	2	animate	4	4	Geschädigte	positiv	FALSCH
+S250_Z12	Scharpff- richter	menschlich	scharfrichter	NB	Lemberg	1630	WAHR	0	male	1	3	animate	4	3	Justiz&Helfer	positiv	WAHR
+S250_Z33	Scharpffrichter	menschlich	scharfrichter	NB	Lemberg	1630	WAHR	0	male	1	3	animate	4	3	Justiz&Helfer	positiv	WAHR
+S250_Z34	Scharpffrichtter	menschlich	scharfrichter	NB	Lemberg	1630	WAHR	0	male	1	3	animate	4	3	Justiz&Helfer	positiv	WAHR
+S414_Z84	Schelmb	menschlich	schelm	NN	Bamberg	1628	WAHR	1	male	0	3	animate	4	2	Angeklagter	negativ	FALSCH
+S313_Z153	Schelm	menschlich	schelm	NN	Ostrau	1628	WAHR	1	male	0	3	animate	4	2	Denunzierter	negativ	FALSCH
+S296_Z236	Schencken	menschlich	schenk	NB	Georgenthal	1597	WAHR	1	male	0	1	animate	4	1	Geschädigter	positiv	FALSCH
+S417_Z213	Schlosser	menschlich	schlosser	NB	Bamberg	1628	WAHR	1	male	0	3	animate	4	2	Denunzierter	negativ	FALSCH
+S417_Z217LN	Schlosser	menschlich	schlosser	NB	Bamberg	1628	WAHR	1	male	0	3	animate	4	2	Denunzierter	negativ	FALSCH
+S293_Z120	Schmides	menschlich	schmied	NB	Georgenthal	1597	WAHR	1	male	0	1	animate	4	1	nicht entschieden	neutral	FALSCH
+S296_Z229	schneider	menschlich	schneider	NB	Georgenthal	1597	FALSCH	1	male	0	1	animate	4	1	Geschädigter	positiv	FALSCH
+S296_Z214	Schöpffen	menschlich	schöffe	NB	Georgenthal	1597	WAHR	1	male	0	1	animate	4	4	Justiz&Helfer	positiv	FALSCH
+S293_Z105	Schöpffenn	menschlich	schöffe	NB	Georgenthal	1597	WAHR	1	male	0	1	animate	4	4	Justiz&Helfer	positiv	FALSCH
+S293_Z109	Schöpffenn	menschlich	schöffe	NB	Georgenthal	1597	WAHR	1	male	0	1	animate	4	4	Justiz&Helfer	positiv	FALSCH
+S168_Z102	Schöp-   pen	menschlich	schöffe	NB	Perleberg	1588	WAHR	1	male	0	1	animate	4	4	Justiz&Helfer	positiv	FALSCH
+S291_Z28	Schulmeister	menschlich	schulmeister	NB	Georgenthal	1597	WAHR	1	male	1	1	animate	4	2	Geschädigter	positiv	WAHR
+S295_Z180	Schulmeister	menschlich	schulmeister	NB	Georgenthal	1597	WAHR	1	male	1	1	animate	4	2	Geschädigter	positiv	WAHR
+S160_Z129	Schultz	menschlich	schulz	NB	Güstrow	1615	WAHR	1	male	0	2	animate	4	1	Geschädigter	positiv	FALSCH
+S160_Z124	Schultzen	menschlich	schulze	NB	Güstrow	1615	WAHR	1	male	0	2	animate	4	1	Geschädigter	positiv	FALSCH
+S179_Z228	Schuster	menschlich	schuster	NB	Stralsund	1630	WAHR	1	male	0	3	animate	4	1	nicht entschieden	neutral	FALSCH
+S62_Z134	Swegersche	menschlich	schwager	NN	Jever	1592	WAHR	0	fem	0	1	animate	4	2	Denunzierte	negativ	FALSCH
+S296_Z222	schwager	menschlich	schwager	NN	Georgenthal	1597	FALSCH	1	male	0	1	animate	4	2	Geschädigter	positiv	FALSCH
+S178_Z169	Schwede	menschlich	schwede	NN	Stralsund	1630	WAHR	1	male	0	3	animate	4	1	nicht entschieden	neutral	FALSCH
+S62_Z129	Swester	menschlich	schwester	NN	Jever	1592	WAHR	0	fem	0	1	animate	3	7	Denunzierte	negativ	FALSCH
+S12_Z59	Schwester	menschlich	schwester	NN	Alme	1630	WAHR	0	fem	0	3	animate	3	7	Denunzierte	negativ	FALSCH
+S12_Z62	Schwester	menschlich	schwester	NN	Alme	1630	WAHR	0	fem	0	3	animate	3	7	Denunzierte	negativ	FALSCH
+S221_Z60	schwester	menschlich	schwester	NN	Gaugrehweiler	1610	FALSCH	0	fem	0	2	animate	3	7	nicht entschieden	neutral	FALSCH
+S296_Z217	schwester	menschlich	schwester	NN	Georgenthal	1597	FALSCH	1	fem	0	1	animate	3	7	Geschädigte	positiv	FALSCH
+S253_Z162	Schwester	menschlich	schwester	NN	Lemberg	1630	WAHR	0	fem	0	3	animate	3	7	Geschädigte	positiv	FALSCH
+S254_Z167	Schwester	menschlich	schwester	NN	Lemberg	1630	WAHR	0	fem	0	3	animate	3	7	Geschädigte	positiv	FALSCH
+S465_Z145	Schwehern	menschlich	schwiegervater	NN	München	1600	WAHR	1	male	0	1	animate	4	1	nicht entschieden	neutral	FALSCH
+S12_Z53	sohn	menschlich	sohn	NN	Alme	1630	FALSCH	0	male	0	3	animate	4	37	Denunzierter	negativ	FALSCH
+S15_Z192	sohn	menschlich	sohn	NN	Alme	1630	FALSCH	0	male	0	3	animate	4	37	Denunzierter	negativ	FALSCH
+S419_Z271	Sohn	menschlich	sohn	NN	Bamberg	1628	WAHR	1	male	0	3	animate	4	37	Geschädigter	positiv	FALSCH
+S220_Z11	Sohn	menschlich	sohn	NN	Gaugrehweiler	1610	WAHR	0	male	0	2	animate	4	37	Justiz&Helfer	positiv	FALSCH
+S221_Z44	Sohnen	menschlich	sohn	NN	Gaugrehweiler	1610	WAHR	0	male	0	2	animate	4	37	Geschädigter	positiv	FALSCH
+S296_Z217	sohn	menschlich	sohn	NN	Georgenthal	1597	FALSCH	1	male	0	1	animate	4	37	Geschädigter	positiv	FALSCH
+S465_Z144	Sohn	menschlich	sohn	NN	München	1600	WAHR	1	male	0	1	animate	4	37	Angeklagter	negativ	FALSCH
+S467_Z192	Sohn	menschlich	sohn	NN	München	1600	WAHR	1	male	0	1	animate	4	37	Geschädigter	positiv	FALSCH
+S468_Z246	Sohn	menschlich	sohn	NN	München	1600	WAHR	1	male	0	1	animate	4	37	Angeklagter	negativ	FALSCH
+S465_Z112	Söhn	menschlich	sohn	NN	München	1600	WAHR	1	male	0	1	animate	4	37	nicht entschieden	neutral	FALSCH
+S466_Z176	Söhn	menschlich	sohn	NN	München	1600	WAHR	1	male	0	1	animate	4	37	Denunzierter	negativ	FALSCH
+S466_Z188	Söhn	menschlich	sohn	NN	München	1600	WAHR	1	male	0	1	animate	4	37	Denunzierter	negativ	FALSCH
+S468_Z235	Söhn	menschlich	sohn	NN	München	1600	WAHR	1	male	0	1	animate	4	37	Denunzierter	negativ	FALSCH
+S468_Z240	Söhn	menschlich	sohn	NN	München	1600	WAHR	1	male	0	1	animate	4	37	Denunzierter	negativ	FALSCH
+S470_Z337	Söhn	menschlich	sohn	NN	München	1600	WAHR	1	male	0	1	animate	4	37	Denunzierter	negativ	FALSCH
+S467_Z217	Söhnen	menschlich	sohn	NN	München	1600	WAHR	1	male	0	1	animate	4	37	Denunzierter	negativ	FALSCH
+S462_Z24	Sön	menschlich	sohn	NN	München	1600	WAHR	1	male	0	1	animate	4	37	Angeklagter	negativ	FALSCH
+S463_Z42	Sön	menschlich	sohn	NN	München	1600	WAHR	1	male	0	1	animate	4	37	Angeklagter	negativ	FALSCH
+S463_Z65	Sön	menschlich	sohn	NN	München	1600	WAHR	1	male	0	1	animate	4	37	Angeklagter	negativ	FALSCH
+S464_Z78	Sön	menschlich	sohn	NN	München	1600	WAHR	1	male	0	1	animate	4	37	Angeklagter	negativ	FALSCH
+S463_Z57	Sönen	menschlich	sohn	NN	München	1600	WAHR	1	male	0	1	animate	4	37	Angeklagter	negativ	FALSCH
+S311_Z48	Sohns	menschlich	sohn	NN	Ostrau	1628	WAHR	1	male	0	3	animate	4	37	Geschädigter	positiv	FALSCH
+S318_Z32	Sohn	menschlich	sohn	NN	Rosenburg	1618	WAHR	1	male	0	2	animate	4	37	Denunzierter	negativ	FALSCH
+S323_Z233	Sohn	menschlich	sohn	NN	Rosenburg	1618	WAHR	1	male	0	2	animate	4	37	nicht entschieden	neutral	FALSCH
+S324_Z348	Sohn	menschlich	sohn	NN	Rosenburg	1618	WAHR	1	male	0	2	animate	4	37	nicht entschieden	neutral	FALSCH
+S504_Z201	sohn	menschlich	sohn	NN	Schweinfurt	1616	FALSCH	1	male	0	2	animate	4	37	Angeklagter	negativ	FALSCH
+S506_Z274	sohn	menschlich	sohn	NN	Schweinfurt	1616	FALSCH	1	male	0	2	animate	4	37	nicht entschieden	neutral	FALSCH
+S508_Z362	sohns	menschlich	sohn	NN	Schweinfurt	1616	FALSCH	1	male	0	2	animate	4	37	nicht entschieden	neutral	FALSCH
+S62_Z149	Shuen	menschlich	sohn	NN	Jever	1592	WAHR	0	male	0	1	animate	4	37	Denunzierter	negativ	FALSCH
+S62_Z210	Sohne	menschlich	sohn	NN	Jever	1592	WAHR	0	male	0	1	animate	4	37	Denunzierter	negativ	FALSCH
+S60_Z50	Sone	menschlich	sohn	NN	Jever	1592	WAHR	0	male	0	1	animate	4	37	Denunzierter	negativ	FALSCH
+S63_Z192	Sone	menschlich	sohn	NN	Jever	1592	WAHR	0	male	0	1	animate	4	37	Denunzierter	negativ	FALSCH
+S228_Z119	söngen	menschlich	söhnchen	NN	Hamm	1592	FALSCH	0	male	0	1	animate	4	2	Geschädigter	positiv	FALSCH
+S229_Z119	Söngen	menschlich	söhnchen	NN	Hamm	1592	WAHR	0	male	0	1	animate	4	2	Geschädigter	positiv	FALSCH
+S504_Z180	Söhn-  lein	menschlich	söhnlein	NN	Schweinfurt	1616	WAHR	1	male	0	2	animate	4	4	Angeklagter	negativ	FALSCH
+S504_Z189	Söhnlein	menschlich	söhnlein	NN	Schweinfurt	1616	WAHR	1	male	0	2	animate	4	4	Angeklagter	negativ	FALSCH
+S504_Z209	Söhnlein	menschlich	söhnlein	NN	Schweinfurt	1616	WAHR	1	male	0	2	animate	4	4	Zeuge 	neutral	FALSCH
+S508_Z358	Söhnleins	menschlich	söhnlein	NN	Schweinfurt	1616	WAHR	1	male	0	2	animate	4	4	Zeuge	neutral	FALSCH
+S179_Z232	Soldat	menschlich	soldat	NB	Stralsund	1630	WAHR	1	male	0	3	animate	4	4	nicht entschieden	neutral	FALSCH
+S175_Z54	Soldaten	menschlich	soldat	NN	Stralsund	1630	WAHR	1	male	0	3	animate	4	4	nicht entschieden	neutral	FALSCH
+S176_Z121	Soldaten	menschlich	soldat	NB	Stralsund	1630	WAHR	1	male	0	3	animate	4	4	nicht entschieden	neutral	FALSCH
+S178_Z168	Soldaten	menschlich	soldat	NB	Stralsund	1630	WAHR	1	male	0	3	animate	4	4	nicht entschieden	neutral	FALSCH
+S12_Z71	Spielman	menschlich	spielmann	NN	Alme	1630	WAHR	0	male	1	3	animate	4	2	Denunzierter	negativ	FALSCH
+S15_Z198	Spielman	menschlich	spielmann	NB	Alme	1630	WAHR	0	male	1	3	animate	4	2	Denunzierter	negativ	FALSCH
+S295_Z179	Springer	menschlich	springer	NB	Georgenthal	1597	WAHR	1	male	0	1	animate	4	1	Denunzierter	negativ	FALSCH
+S466_Z185	Stadlpaurn	menschlich	stadelbauer	NB	München	1600	WAHR	1	male	1	1	animate	4	1	nicht entschieden	neutral	FALSCH
+S315_Z227	Stadtrichter	menschlich	stadtrichter	NB	Ostrau	1628	WAHR	1	male	1	3	animate	4	1	Justiz&Helfer	positiv	WAHR
+S342_Z174	Stiffsohn	menschlich	stiefsohn	NN	Baden-Baden	1628	WAHR	0	male	1	3	animate	4	3	Geschädigter	positiv	FALSCH
+S222_Z102	stieffsohn	menschlich	stiefsohn	NN	Gaugrehweiler	1610	FALSCH	0	male	1	2	animate	4	3	nicht entschieden	neutral	FALSCH
+S222_Z111	stieffsohn	menschlich	stiefsohn	NN	Gaugrehweiler	1610	FALSCH	0	male	1	2	animate	4	3	nicht entschieden	neutral	FALSCH
+S15_Z192	thochter	menschlich	tochter	NN	Alme	1630	FALSCH	0	fem	0	3	animate	3	33	Denunzierte	negativ	FALSCH
+S12_Z50	Tochter	menschlich	tochter	NN	Alme	1630	WAHR	0	fem	0	3	animate	3	33	Denunzierte	negativ	FALSCH
+S12_Z60	tochter	menschlich	tochter	NN	Alme	1630	FALSCH	0	fem	0	3	animate	3	33	Denunzierte	negativ	FALSCH
+S13_Z90	Tochter	menschlich	tochter	NN	Alme	1630	WAHR	0	fem	0	3	animate	3	33	Denunzierte	negativ	FALSCH
+S15_Z193	tochter	menschlich	tochter	NN	Alme	1630	FALSCH	0	fem	0	3	animate	3	33	Denunzierte	negativ	FALSCH
+S12_Z57	tochtern	menschlich	tochter	NN	Alme	1630	FALSCH	0	fem	0	3	animate	3	33	Denunzierte	negativ	FALSCH
+S339_Z65	dochter	menschlich	tochter	NN	Baden-Baden	1628	FALSCH	0	fem	0	3	animate	3	33	Denunzierte	negativ	FALSCH
+S339_Z61	döchter	menschlich	tochter	NN	Baden-Baden	1628	FALSCH	0	fem	0	3	animate	3	33	Denunzierte	negativ	FALSCH
+S419_Z281	tochter	menschlich	tochter	NN	Bamberg	1628	FALSCH	1	fem	0	3	animate	3	33	Geschädigte	positiv	FALSCH
+S419_Z284	tochter	menschlich	tochter	NN	Bamberg	1628	FALSCH	1	fem	0	3	animate	3	33	Geschädigte	positiv	FALSCH
+S295_Z199	Töchter	menschlich	tochter	NN	Georgenthal	1597	WAHR	1	fem	0	1	animate	3	33	nicht entschieden	neutral	FALSCH
+S157_Z10	tochtere	menschlich	tochter	NN	Güstrow	1615	FALSCH	1	fem	0	2	animate	3	33	Denunzierte	negativ	FALSCH
+S79_Z8	dochter	menschlich	tochter	NN	Meldorf	1618	FALSCH	0	fem	0	2	animate	3	33	nicht entschieden	neutral	FALSCH
+S81_Z93	dochter	menschlich	tochter	NN	Meldorf	1618	FALSCH	0	fem	0	2	animate	3	33	nicht entschieden	neutral	FALSCH
+S167_Z49	tochter	menschlich	tochter	NN	Perleberg	1588	FALSCH	1	fem	0	1	animate	3	33	nicht entschieden	neutral	FALSCH
+S167_Z52	tochter	menschlich	tochter	NN	Perleberg	1588	FALSCH	1	fem	0	1	animate	3	33	nicht entschieden	neutral	FALSCH
+S167_Z56	tochter	menschlich	tochter	NN	Perleberg	1588	FALSCH	1	fem	0	1	animate	3	33	nicht entschieden	neutral	FALSCH
+S167_61	tochter	menschlich	tochter	NN	Perleberg	1588	FALSCH	1	fem	0	1	animate	3	33	nicht entschieden	neutral	FALSCH
+S169_Z120	tochter	menschlich	tochter	NN	Perleberg	1588	FALSCH	1	fem	0	1	animate	3	33	Denunzierte	negativ	FALSCH
+S169_Z140	tochter	menschlich	tochter	NN	Perleberg	1588	FALSCH	1	fem	0	1	animate	3	33	nicht entschieden	neutral	FALSCH
+S169_Z151	tochter	menschlich	tochter	NN	Perleberg	1588	FALSCH	1	fem	0	1	animate	3	33	Zeugin	neutral	FALSCH
+S170_Z163	tochter	menschlich	tochter	NN	Perleberg	1588	FALSCH	1	fem	0	1	animate	3	33	Zeugin	neutral	FALSCH
+S171_Z214	tochter	menschlich	tochter	NN	Perleberg	1588	FALSCH	1	fem	0	1	animate	2	33	Denunzierte	negativ	FALSCH
+S394_Z127	Tochter	menschlich	tochter	NN	Riedlingen	1596	WAHR	0	fem	0	1	animate	3	33	Denunzierte	negativ	FALSCH
+S322_Z194	tochter	menschlich	tochter	NN	Rosenburg	1618	FALSCH	1	fem	0	2	animate	3	33	nicht entschieden	neutral	FALSCH
+S60_Z64	dochter	menschlich	tochter	NN	Jever	1592	FALSCH	0	fem	0	1	animate	3	33	Denunzierte	negativ	FALSCH
+S60_Z68	Dochter	menschlich	tochter	NN	Jever	1592	WAHR	0	fem	0	1	animate	3	33	Zeugin	neutral	FALSCH
+S60_Z82	Dochter	menschlich	tochter	NN	Jever	1592	WAHR	0	fem	0	1	animate	3	33	Denunzierte	negativ	FALSCH
+S62_Z138LN	dochter	menschlich	tochter	NN	Jever	1592	FALSCH	0	fem	0	1	animate	3	33	Denunzierte 	negativ	FALSCH
+S62_Z138	Dochter	menschlich	tochter	NN	Jever	1592	WAHR	0	fem	0	1	animate	3	33	Denunzierte	negativ	FALSCH
+S64_Z208	Dochter	menschlich	tochter	NN	Jever	1592	WAHR	0	fem	0	1	animate	3	33	Denunzierte	negativ	FALSCH
+S64_Z213	Dochter	menschlich	tochter	NN	Jever	1592	WAHR	0	fem	0	1	animate	3	33	Denunzierte	negativ	FALSCH
+S61_Z84	dochtern	menschlich	tochter	NN	Jever	1592	FALSCH	0	fem	0	1	animate	3	33	Denunzierte	negativ	FALSCH
+S229_Z119	dochtergen	menschlich	töchterchen	NN	Hamm	1592	FALSCH	0	fem	0	1	animate	3	1	Geschädigte	positiv	FALSCH
+S167_Z43	tochterman	menschlich	tochtermann	NN	Perleberg	1588	FALSCH	1	male	0	1	animate	2	1	nicht entschieden	neutral	FALSCH
+S169_Z128	topffers	menschlich	töpfer	NB	Perleberg	1588	FALSCH	1	male	0	1	animate	4	1	Geschädigter	positiv	FALSCH
+S63_Z188	Trum- menschleger	menschlich	trommelschläger	NB	Jever	1592	WAHR	0	male	1	1	animate	4	3	Denunzierter	negativ	FALSCH
+S63_Z186	Trummenschleger	menschlich	trommelschläger	NB	Jever	1592	WAHR	0	male	1	1	animate	4	3	Denunzierter	negativ	FALSCH
+S63_Z193	Trummenschleger	menschlich	trommelschläger	NB	Jever	1592	WAHR	0	male	1	1	animate	4	3	Denunzierter	negativ	FALSCH
+S222_Z120	Wächter	menschlich	wächter	NB	Gaugrehweiler	1610	WAHR	0	male	0	2	animate	4	1	nicht entschieden	neutral	FALSCH
+S469_Z310	war- seger	menschlich	wahrsager	NB	München	1600	FALSCH	1	male	1	1	animate	4	1	Denunzierter	negativ	FALSCH
+S345_Z8	wasenmaister	menschlich	wasenmeister	NB	Günzburg	1613	FALSCH	0	male	1	2	animate	4	1	Denunzierter	negativ	FALSCH
+S296_Z224	weber	menschlich	weber	NB	Georgenthal	1597	FALSCH	1	male	0	1	animate	4	2	Geschädigter	positiv	FALSCH
+S468_Z266	weber	menschlich	weber	NB	München	1600	FALSCH	1	male	0	1	animate	4	2	Denunzierter	negativ	FALSCH
+S339_Z61	Wöberin	menschlich	weberin	NB	Baden-Baden	1628	WAHR	0	fem	0	3	animate	3	1	Denunzierte	negativ	FALSCH
+S13_Z94	weib	menschlich	weib	NN	Alme	1630	FALSCH	0	fem	0	3	animate	3	47	Denunzierte	negativ	FALSCH
+S15_Z199	weib	menschlich	weib	NN	Alme	1630	FALSCH	0	fem	0	3	animate	3	47	Denunzierte	negativ	FALSCH
+S291_Z20	Weib	menschlich	weib	NN	Georgenthal	1597	WAHR	1	fem	0	1	animate	3	47	Geschädigte	positiv	FALSCH
+S294_Z154	weib	menschlich	weib	NN	Georgenthal	1597	FALSCH	1	fem	0	1	animate	3	47	Geschädigte	positiv	FALSCH
+S293_Z120	weib	menschlich	weib	NN	Georgenthal	1597	FALSCH	1	fem	0	1	animate	3	47	Denunzierte	negativ	FALSCH
+S294_Z158	weib	menschlich	weib	NN	Georgenthal	1597	FALSCH	1	fem	0	1	animate	3	47	Geschädigte	positiv	FALSCH
+S293_Z88	weibe	menschlich	weib	NN	Georgenthal	1597	FALSCH	1	fem	0	1	animate	3	47	nicht entschieden	neutral	FALSCH
+S293_Z117	weiber	menschlich	weib	NN	Georgenthal	1597	FALSCH	1	fem	0	1	animate	3	47	Geschädigte	positiv	FALSCH
+S294_Z144	weiber	menschlich	weib	NN	Georgenthal	1597	FALSCH	1	fem	0	1	animate	3	47	Denunzierte	negativ	FALSCH
+S297_Z257	weiber	menschlich	weib	NN	Georgenthal	1597	FALSCH	1	fem	0	1	animate	3	47	Denunzierte	negativ	FALSCH
+S348_Z133	weib	menschlich	weib	NN	Günzburg	1613	FALSCH	0	fem	0	2	animate	3	47	Geschädigte	positiv	FALSCH
+S157_Z29	weib	menschlich	weib	NN	Güstrow	1615	FALSCH	1	fem	0	2	animate	3	47	Denunzierte	negativ	FALSCH
+S159_Z112	weib	menschlich	weib	NN	Güstrow	1615	FALSCH	1	fem	0	2	animate	3	47	Denunzierte	negativ	FALSCH
+S160_Z125	weibe	menschlich	weib	NN	Güstrow	1615	FALSCH	1	fem	0	2	animate	3	47	Angeklagte	negativ	FALSCH
+S81_Z100	Wibe	menschlich	weib	NN	Meldorf	1618	WAHR	0	fem	0	2	animate	3	47	Geschädigte	positiv	FALSCH
+S79_Z2	Wiben	menschlich	weib	NN	Meldorf	1618	WAHR	0	fem	0	2	animate	3	47	Angeklagte	negativ	FALSCH
+S81_Z80	Wiben	menschlich	weib	NN	Meldorf	1618	WAHR	0	fem	0	2	animate	3	47	Geschädigte	positiv	FALSCH
+S81_Z98	Wiben	menschlich	weib	NN	Meldorf	1618	WAHR	0	fem	0	2	animate	3	47	Angeklagte	negativ	FALSCH
+S464_Z105	weib	menschlich	weib	NN	München	1600	FALSCH	1	fem	0	1	animate	3	47	Angeklagte	negativ	FALSCH
+S465_Z111	weib	menschlich	weib	NN	München	1600	FALSCH	1	fem	0	1	animate	3	47	Angeklagte	negativ	FALSCH
+S465_114	weib	menschlich	weib	NN	München	1600	FALSCH	1	fem	0	1	animate	3	47	Angeklagte	negativ	FALSCH
+S465_Z116	weib	menschlich	weib	NN	München	1600	FALSCH	1	fem	0	1	animate	3	47	Angeklagte	negativ	FALSCH
+S465_Z118	weib	menschlich	weib	NN	München	1600	FALSCH	1	fem	0	1	animate	3	47	Angeklagte	negativ	FALSCH
+S465_Z124	weib	menschlich	weib	NN	München	1600	FALSCH	1	fem	0	1	animate	3	47	Angeklagte	negativ	FALSCH
+S468_Z240	weib	menschlich	weib	NN	München	1600	FALSCH	1	fem	0	1	animate	3	47	Angeklagte	negativ	FALSCH
+S470_Z334	weib	menschlich	weib	NN	München	1600	FALSCH	1	fem	0	1	animate	3	47	Angeklagte	negativ	FALSCH
+S462_Z13	weyb	menschlich	weib	NN	München	1600	FALSCH	1	fem	0	1	animate	3	47	Angeklagte	negativ	FALSCH
+S462_Z13	weyb	menschlich	weib	NN	München	1600	FALSCH	1	fem	0	1	animate	3	47	Angeklagte	negativ	FALSCH
+S462_Z18	weyb	menschlich	weib	NN	München	1600	FALSCH	1	fem	0	1	animate	3	47	Angeklagte	negativ	FALSCH
+S462_Z24	weyb	menschlich	weib	NN	München	1600	FALSCH	1	fem	0	1	animate	3	47	Angeklagte	negativ	FALSCH
+S463_Z42	weyb	menschlich	weib	NN	München	1600	FALSCH	1	fem	0	1	animate	3	47	Angeklagte	negativ	FALSCH
+S463_Z61	weyb	menschlich	weib	NN	München	1600	FALSCH	1	fem	0	1	animate	3	47	Angeklagte	negativ	FALSCH
+S463_Z61	weyb	menschlich	weib	NN	München	1600	FALSCH	1	fem	0	1	animate	3	47	Angeklagte	negativ	FALSCH
+S464_Z78	weyb	menschlich	weib	NN	München	1600	FALSCH	1	fem	0	1	animate	3	47	Angeklagte	negativ	FALSCH
+S311_Z70	Weib	menschlich	weib	NN	Ostrau	1628	WAHR	1	fem	0	3	animate	3	47	nicht entschieden	neutral	FALSCH
+S166_Z6	weiber	menschlich	weib	NN	Perleberg	1588	FALSCH	1	fem	0	1	animate	3	47	Zeugin	neutral	FALSCH
+S394_Z128	Weib	menschlich	weib	NN	Riedlingen	1596	WAHR	0	fem	0	1	animate	3	47	Denunzierte	negativ	FALSCH
+S318_Z7	weib	menschlich	weib	NN	Rosenburg	1618	FALSCH	1	fem	0	2	animate	3	47	Angeklagte	negativ	FALSCH
+S320_Z92	weib	menschlich	weib	NN	Rosenburg	1618	FALSCH	1	fem	0	2	animate	3	47	Geschädigte	positiv	FALSCH
+S323_Z212	weib	menschlich	weib	NN	Rosenburg	1618	FALSCH	1	fem	0	2	animate	3	47	nicht entschieden	neutral	FALSCH
+S321_Z157	Witbe	menschlich	weib	NN	Rosenburg	1618	WAHR	1	fem	0	2	animate	3	47	nicht entschieden	neutral	FALSCH
+S180_Z251	weibe	menschlich	weib	NN	Stralsund	1630	FALSCH	1	fem	0	3	animate	3	47	nicht entschieden	neutral	FALSCH
+S60_Z83	weib	menschlich	weib	NN	Jever	1592	FALSCH	0	fem	0	1	animate	3	47	Denunzierte	negativ	FALSCH
+S62_Z133LN	weib	menschlich	weib	NN	Jever	1592	FALSCH	0	fem	0	1	animate	3	47	Denunzierte	negativ	FALSCH
+S62_Z135	weib	menschlich	weib	NN	Jever	1592	FALSCH	0	fem	0	1	animate	3	47	Denunzierte	negativ	FALSCH
+S59_Z33	weiber	menschlich	weib	NN	Jever	1592	FALSCH	0	fem	0	1	animate	3	47	nicht entschieden	neutral	FALSCH
+S65_Z262	weiber	menschlich	weib	NN	Jever	1592	FALSCH	0	fem	0	1	animate	3	47	Zeugin	neutral	FALSCH
+S415_Z104	weibsbildt	menschlich	weibsbild	NN	Bamberg	1628	FALSCH	1	fem	1	3	animate	3	2	Denunzierte	negativ	FALSCH
+S310_Z16	Weibes Bilde	menschlich	weibsbild	NN	Ostrau	1628	WAHR	1	fem	1	3	animate	3	2	Denunzierte	negativ	FALSCH
+S347_Z107	weibs Persohnen	menschlich	weibsperson	NN	Günzburg	1613	FALSCH	0	fem	1	2	animate	3	2	Denunzierte	negativ	FALSCH
+S395_Z176	Weibßperson	menschlich	weibsperson	NN	Riedlingen	1596	WAHR	0	fem	1	1	animate	3	2	Angeklagte	negativ	FALSCH
+S12_Z77	wehr- wulffe	menschlich	werwolf	NN	Alme	1630	FALSCH	0	male	0	3	animate	4	2	Denunzierter	negativ	FALSCH
+S13_Z94	wehrwulffin	menschlich	werwolf	NN	Alme	1630	FALSCH	0	fem	0	3	animate	4	2	Denunzierte	negativ	FALSCH
+S323_Z212	wintzers	menschlich	winzer	NB	Rosenburg	1618	FALSCH	1	male	0	2	animate	4	1	nicht entschieden	neutral	FALSCH
+S297_Z253	wirtt	menschlich	wirt	NB	Georgenthal	1597	FALSCH	1	male	0	1	animate	4	5	Geschädigter	positiv	FALSCH
+S296_Z235	wirtten	menschlich	wirt	NB	Georgenthal	1597	FALSCH	1	male	0	1	animate	4	5	Geschädigter	positiv	FALSCH
+S296_Z238	wirtten	menschlich	wirt	NB	Georgenthal	1597	FALSCH	1	male	0	1	animate	4	5	Geschädigter	positiv	FALSCH
+S465_Z133	wiert	menschlich	wirt	NB	München	1600	FALSCH	1	male	0	1	animate	4	5	nicht entschieden	neutral	FALSCH
+S466_Z171	wiert	menschlich	wirt	NB	München	1600	FALSCH	1	male	0	1	animate	4	5	nicht entschieden	neutral	FALSCH
+S506_Z291	Wirtin	menschlich	wirtin	NN	Schweinfurt	1616	WAHR	1	fem	0	2	animate	3	1	Geschädigte	positiv	FALSCH
+S338_Z2	Wittib	menschlich	witwe	NN	Baden-Baden	1628	WAHR	0	fem	0	3	animate	3	13	Angeklagte	negativ	FALSCH
+S419_Z303	wittib	menschlich	witwe	NN	Bamberg	1628	FALSCH	1	fem	0	3	animate	3	13	Denunzierte	negativ	FALSCH
+S294_Z153	widtwe	menschlich	witwe	NN	Georgenthal	1597	FALSCH	1	fem	0	1	animate	3	13	Geschädigte	positiv	FALSCH
+S347_Z113	wittib	menschlich	witwe	NN	Günzburg	1613	FALSCH	0	fem	0	2	animate	3	13	Angeklagte	negativ	FALSCH
+S157_Z4	witwe	menschlich	witwe	NN	Güstrow	1615	FALSCH	1	fem	0	2	animate	3	13	Angeklagte	negativ	FALSCH
+S167_Z64	widttwen	menschlich	witwe	NN	Perleberg	1588	FALSCH	1	fem	0	1	animate	3	13	Geschädigte	positiv	FALSCH
+S168_Z84	widtwe	menschlich	witwe	NN	Perleberg	1588	FALSCH	1	fem	0	1	animate	3	13	Geschädigte	positiv	FALSCH
+S168_Z100	widtwe	menschlich	witwe	NN	Perleberg	1588	FALSCH	1	fem	0	1	animate	3	13	Angeklagte	negativ	FALSCH
+S393_Z113	Wittib	menschlich	witwe	NN	Riedlingen	1596	WAHR	0	fem	0	1	animate	3	13	Geschädigte	positiv	FALSCH
+S500_Z10	witib	menschlich	witwe	NN	Schweinfurt	1616	FALSCH	1	fem	0	2	animate	3	13	Klägerin	positiv	FALSCH
+S506_Z279	Witwe	menschlich	witwe	NN	Schweinfurt	1616	WAHR	1	fem	0	2	animate	3	13	Zeugin	neutral	FALSCH
+S507_Z300	Witwe	menschlich	witwe	NN	Schweinfurt	1616	WAHR	1	fem	0	2	animate	3	13	nicht entschieden	neutral	FALSCH
+S174_Z6	Wittib	menschlich	witwe	NN	Stralsund	1630	WAHR	1	fem	0	3	animate	3	13	Angeklagte	negativ	FALSCH
+S80_Z45	tho kiker	menschlich	zuschauer	NN	Meldorf	1618	FALSCH	0	male	0	2	animate	4	1	nicht entschieden	neutral	FALSCH
+S170_Z181	dwerg	menschlich	zwerg	NN	Perleberg	1588	FALSCH	1	male	0	1	animate	4	1	nicht entschieden	neutral	FALSCH
+S170_Z182	dwergin	menschlich	zwergin	NN	Perleberg	1588	FALSCH	1	fem	0	1	animate	3	1	nicht entschieden	neutral	FALSCH
