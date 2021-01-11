@@ -5,8 +5,7 @@ Both papers are written in German.
 
 # 2017 paper: "Gender und Großschreibung. Misogyner Einfluss in der Entwicklung der satzinternen Großschreibung im Frühneuhochdeutschen"
 
-I analyzed the interaction between two factors that influence the capitalization of nouns: gender and moral evaluation of the referent.
-The results show that terms denoting male referents have a general tendency towards capitalization, uneffected by the respective moral evaluation of the referent. Capitalization of the terms denoting female referents, however, does show a significant effect of the respective moral evaluation of the referent.
+I analyzed the interaction between two factors that influenced the development of the sentence-internal capitalization of nouns in Early Modern High German: gender and moral evaluation of the referent. The results show that terms denoting male referents have a general tendency towards capitalization, uneffected by the respective moral evaluation of the referent. Capitalization of the terms denoting female referents, however, does show a significant effect of the respective moral evaluation of the referent.
 
 This paper has been referenced in the following articles:
 
