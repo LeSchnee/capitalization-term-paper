@@ -5,8 +5,7 @@
 
 This repository contains a (bachelor) term paper on capitalization (2017), the data used, a follow-up study conducted for a (master) term paper in statistics (2020) as well as the data used in both papers and the R script for the second paper.
 
-# 2017 paper
-title: "Gender und Großschreibung. Misogyner Einfluss in der Entwicklung der satzinternen Großschreibung im Frühneuhochdeutschen"
+# 2017 paper: "Gender und Großschreibung. Misogyner Einfluss in der Entwicklung der satzinternen Großschreibung im Frühneuhochdeutschen"
 
 I analyzed the interaction between two factors that influence the capitalization of nouns: gender and moral evaluation of the referent.
 The results show that terms denoting male referents have a general tendency towards capitalization, uneffected by the respective moral evaluation of the referent. Capitalization of the terms denoting female referents, however, does show a significant effect of the respective moral evaluation of the referent.
@@ -17,8 +16,7 @@ Dücker, Lisa (2020): Großschreibung von Personenbezeichnungen in Hexenverhörp
 
 Lisa Dücker, Stefan Hartmann & Renata Szczepaniak (2020): Satzinterne Großschreibung von Substantiven und Substantivierungen in Hexenverhörprotokollen. In: Renata Szczepaniak, Lisa Dücker & Stefan Hartmann (eds.): Hexenverhörprotokolle als sprachhistorisches Korpus: Fallstudien zur Erschließung der frühneuzeitlichen Schriftsprache. Berlin, Boston: De Gruyter, 113–144.
 
-# 2020 paper
-title: "Gender und soziale Rolle in der Entwicklung der satzinternen Großschreibung –  eine multifaktorielle Analyse"
+# 2020 paper: "Gender und soziale Rolle in der Entwicklung der satzinternen Großschreibung –  eine multifaktorielle Analyse"
 
 I analyzed multiple factors that influenced the development of the sentence-internal capitalization of nouns in Early Modern High German using parts of the SIGS-corpus (https://www.uni-muenster.de/SIGS-Projekt/corpus/datamap.html), which consists of protocols of witch trials, handwritten between 1588 and 1630.
 
