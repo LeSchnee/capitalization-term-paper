@@ -1,6 +1,7 @@
 # two term papers on the development of sentence-internal capitalization in Early Modern High German, dataset and R script
 
 This repository contains a (bachelor) term paper on capitalization (2017), the data used, a follow-up study conducted for a (master) term paper in statistics (2020) as well as the data used in both papers and the R script for the second paper.
+Both papers are written in German.
 
 # 2017 paper: "Gender und Großschreibung. Misogyner Einfluss in der Entwicklung der satzinternen Großschreibung im Frühneuhochdeutschen"
 
