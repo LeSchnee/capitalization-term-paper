@@ -31,4 +31,5 @@ The dataset contains all instances of terms denoting persons (Personenbezeichnun
 I have reviewed the annotations for gender (as is described in the methods chapters of both papers) and added annotations of a) social roll and b) moral evaluation of the referent in the context of the trial as well as c) prestige of the term.
 
 # R script
+(Datenvisualiserung_glm_Schnee.R)
 The statistical models reported in the second paper can be reproduced via this script, the same holds for all data visualization.
