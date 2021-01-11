@@ -36,4 +36,5 @@ I have reviewed the annotations for gender (as is described in the methods chapt
 
 # R script
 + Datenvisualiserung_glm_Schnee.R
+
 The statistical models reported in the second paper can be reproduced via this script, the same holds for all data visualization.
