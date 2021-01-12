@@ -6,7 +6,7 @@ Both papers are written in German.
 # 2017 paper: "Gender und Großschreibung. Misogyner Einfluss in der Entwicklung der satzinternen Großschreibung im Frühneuhochdeutschen"
 + Schnee_2017_Großschreibung.pdf
 
-I analyzed the interaction between two factors that influenced the development of the sentence-internal capitalization of nouns in Early Modern High German: gender and moral evaluation of the referent. The results show that terms denoting male referents have a general tendency towards capitalization, uneffected by the respective moral evaluation of the referent. Capitalization of the terms denoting female referents, however, does show a significant effect of the respective moral evaluation of the referent.
+I analyzed the interaction between two factors that influenced the development of the sentence-internal capitalization of nouns in Early Modern High German: gender and moral evaluation of the referent. I used data from the SIGS-corpus of handwritten witch trial protocols. The results show that terms denoting male referents have a general tendency towards capitalization, uneffected by the respective moral evaluation of the referent. Capitalization of the terms denoting female referents, however, does show a significant effect of the respective moral evaluation of the referent.
 
 This paper has been referenced in the following articles:
 
@@ -32,7 +32,7 @@ Also, although visual inspection suggests an interaction between gender and mora
 
 The dataset used in both papers is taken from the SIGS-corpus, that was formed in the SIGS-project on the emergence of sentence-internal capitalization (funded by the German Research Association DFG, SZ 280/2-1 and KO 909/12-1). The project (2013-2018) was a cooperation between the University of Hamburg (Fabian Barteld, Renata Szczepaniak) and the University of Münster (Klaus-Michael Köpcke, Marc Schutzeichel).
 The dataset contains all instances of terms denoting persons (Personenbezeichnungen) that occur in the core corpus (cf. Szczepaniak/Barteld 2016) including meta data as well as annotations for animacy and gender of the referent. It was kindly provided to me by Stefan Hartmann and Renata Szczepaniak. 
-I have reviewed the annotations for gender (as is described in the methods chapters of both papers) and added annotations of a) social roll and b) moral evaluation of the referent in the context of the trial as well as c) prestige of the term.
+I have reviewed the annotations for gender (as is described in the methods chapters of both papers) and added annotations of a) social role and b) moral evaluation of the referent in the context of the trial as well as c) prestige of the term.
 
 # R script
 + Datenvisualiserung_glm_Schnee.R
